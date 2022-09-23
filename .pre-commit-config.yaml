@@ -1,0 +1,29 @@
+repos:
+  - repo: https://github.com/pycqa/flake8
+    rev: 4.0.1
+    hooks:
+      - id: flake8
+        args: ["--ignore=E203,E501,W503"]
+  - repo: https://github.com/psf/black
+    rev: 22.3.0
+    hooks:
+      - id: black
+        language_version: python3 # Should run python3.6+
+        args: ["--line-length=90"]
+  - repo: https://github.com/PyCQA/autoflake
+    rev: v1.4
+    hooks:
+      - id: autoflake
+        language: python
+        args:
+          [
+            "--in-place",
+            "--remove-all-unused-imports",
+            "--remove-unused-variables",
+            "--ignore-init-module-imports",
+          ]
+  - repo: https://github.com/PyCQA/isort
+    rev: 5.10.1
+    hooks:
+      - id: isort
+        args: ["--profile", "black", "--line-length=90"]

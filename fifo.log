@@ -1,0 +1,1124 @@
+[2022-09-22 23:06:34.392322] Main: Tick
+[2022-09-22 23:06:34.392488] Order #A8CFCB76 Banana Split: Preparing in 4 seconds
+[2022-09-22 23:06:34.392548] Courier #1 will arrive in 6 seconds to pick up the next order
+[2022-09-22 23:06:34.392559] Order #58E9B5FE McFlury: Preparing in 14 seconds
+[2022-09-22 23:06:34.392571] Courier #2 will arrive in 10 seconds to pick up the next order
+[2022-09-22 23:06:35.393652] Main: Tick
+[2022-09-22 23:06:35.394084] Order #2EC069E3 Acai Bowl: Preparing in 12 seconds
+[2022-09-22 23:06:35.394174] Courier #3 will arrive in 10 seconds to pick up the next order
+[2022-09-22 23:06:35.394213] Order #690B85F7 Yogurt: Preparing in 6 seconds
+[2022-09-22 23:06:35.394263] Courier #4 will arrive in 8 seconds to pick up the next order
+[2022-09-22 23:06:36.395007] Main: Tick
+[2022-09-22 23:06:36.395196] Order #972AA5B8 Chocolate Gelato: Preparing in 9 seconds
+[2022-09-22 23:06:36.395234] Courier #5 will arrive in 12 seconds to pick up the next order
+[2022-09-22 23:06:36.395253] Order #C18E1242 Cobb Salad: Preparing in 8 seconds
+[2022-09-22 23:06:36.395269] Courier #6 will arrive in 7 seconds to pick up the next order
+[2022-09-22 23:06:37.396252] Main: Tick
+[2022-09-22 23:06:37.396515] Order #66A2611C Cottage Cheese: Preparing in 11 seconds
+[2022-09-22 23:06:37.396571] Courier #7 will arrive in 8 seconds to pick up the next order
+[2022-09-22 23:06:37.396590] Order #4CC9D503 Coke: Preparing in 13 seconds
+[2022-09-22 23:06:37.396625] Courier #8 will arrive in 11 seconds to pick up the next order
+[2022-09-22 23:06:38.393782] Order #A8CFCB76 Banana Split: Ready for courier
+[2022-09-22 23:06:38.396799] Main: Tick
+[2022-09-22 23:06:38.397180] Order #0A6537D7 Snow Cone: Preparing in 4 seconds
+[2022-09-22 23:06:38.397420] Courier #9 will arrive in 15 seconds to pick up the next order
+[2022-09-22 23:06:38.397463] Order #74E0893F Pad See Ew: Preparing in 3 seconds
+[2022-09-22 23:06:38.397517] Courier #10 will arrive in 3 seconds to pick up the next order
+[2022-09-22 23:06:39.397980] Main: Tick
+[2022-09-22 23:06:39.398398] Order #7A5EA4ED Chunky Monkey: Preparing in 13 seconds
+[2022-09-22 23:06:39.398492] Courier #11 will arrive in 10 seconds to pick up the next order
+[2022-09-22 23:06:39.398530] Order #60FBE431 Beef Stew: Preparing in 8 seconds
+[2022-09-22 23:06:39.398588] Courier #12 will arrive in 13 seconds to pick up the next order
+[2022-09-22 23:06:40.393851] Courier #1 has arrived
+[2022-09-22 23:06:40.393903] Courier #1: Waiting for the next order
+[2022-09-22 23:06:40.398757] Main: Tick
+[2022-09-22 23:06:40.399212] Order #2E7F4153 Cheese: Preparing in 12 seconds
+[2022-09-22 23:06:40.399321] Courier #13 will arrive in 12 seconds to pick up the next order
+[2022-09-22 23:06:40.399366] Order #D4EAD98F Spinach Omelet: Preparing in 3 seconds
+[2022-09-22 23:06:40.399448] Courier #14 will arrive in 11 seconds to pick up the next order
+[2022-09-22 23:06:40.495501] Courier #1: Picked up Order #A8CFCB76 Banana Split, waited 0 ms, while the order waited for 2000 ms
+[2022-09-22 23:06:40.495587] FifoCourierManager: Average food wait time: 2000 milliseconds
+[2022-09-22 23:06:40.495601] FifoCourierManager: Average courier wait time: 0 milliseconds
+[2022-09-22 23:06:41.394726] Order #690B85F7 Yogurt: Ready for courier
+[2022-09-22 23:06:41.398012] Order #74E0893F Pad See Ew: Ready for courier
+[2022-09-22 23:06:41.398076] Courier #10 has arrived
+[2022-09-22 23:06:41.398101] Courier #10: Waiting for the next order
+[2022-09-22 23:06:41.399126] Main: Tick
+[2022-09-22 23:06:41.399545] Order #E868E485 Beef Hash: Preparing in 8 seconds
+[2022-09-22 23:06:41.399671] Courier #15 will arrive in 9 seconds to pick up the next order
+[2022-09-22 23:06:41.399715] Order #2BFC7CA9 Pork Chop: Preparing in 12 seconds
+[2022-09-22 23:06:41.399774] Courier #16 will arrive in 12 seconds to pick up the next order
+[2022-09-22 23:06:41.499318] Courier #10: Picked up Order #690B85F7 Yogurt, waited 0 ms, while the order waited for 3 ms
+[2022-09-22 23:06:41.499347] FifoCourierManager: Average food wait time: 1002 milliseconds
+[2022-09-22 23:06:41.499351] FifoCourierManager: Average courier wait time: 0 milliseconds
+[2022-09-22 23:06:42.397480] Order #0A6537D7 Snow Cone: Ready for courier
+[2022-09-22 23:06:42.399580] Main: Tick
+[2022-09-22 23:06:42.399737] Order #1A4D0E6D Kale Salad: Preparing in 5 seconds
+[2022-09-22 23:06:42.399772] Courier #17 will arrive in 7 seconds to pick up the next order
+[2022-09-22 23:06:42.399783] Order #A9F8F42F Fresh Fruit: Preparing in 15 seconds
+[2022-09-22 23:06:42.399797] Courier #18 will arrive in 4 seconds to pick up the next order
+[2022-09-22 23:06:43.394513] Courier #4 has arrived
+[2022-09-22 23:06:43.394528] Courier #4: Waiting for the next order
+[2022-09-22 23:06:43.395489] Courier #6 has arrived
+[2022-09-22 23:06:43.395495] Courier #6: Waiting for the next order
+[2022-09-22 23:06:43.399810] Order #D4EAD98F Spinach Omelet: Ready for courier
+[2022-09-22 23:06:43.399825] Main: Tick
+[2022-09-22 23:06:43.399964] Order #6D2C9EB3 Cranberry Salad: Preparing in 14 seconds
+[2022-09-22 23:06:43.399992] Courier #19 will arrive in 4 seconds to pick up the next order
+[2022-09-22 23:06:43.400002] Order #916DDBA3 Fudge Ice Cream Cake: Preparing in 3 seconds
+[2022-09-22 23:06:43.400013] Courier #20 will arrive in 14 seconds to pick up the next order
+[2022-09-22 23:06:43.495785] Courier #4: Picked up Order #0A6537D7 Snow Cone, waited 0 ms, while the order waited for 997 ms
+[2022-09-22 23:06:43.495832] FifoCourierManager: Average food wait time: 1000 milliseconds
+[2022-09-22 23:06:43.495836] FifoCourierManager: Average courier wait time: 0 milliseconds
+[2022-09-22 23:06:43.495858] Courier #6: Picked up Order #74E0893F Pad See Ew, waited 0 ms, while the order waited for 1997 ms
+[2022-09-22 23:06:43.495867] FifoCourierManager: Average food wait time: 1249 milliseconds
+[2022-09-22 23:06:43.495871] FifoCourierManager: Average courier wait time: 0 milliseconds
+[2022-09-22 23:06:44.393770] Courier #2 has arrived
+[2022-09-22 23:06:44.393781] Courier #2: Waiting for the next order
+[2022-09-22 23:06:44.395570] Order #C18E1242 Cobb Salad: Ready for courier
+[2022-09-22 23:06:44.401050] Main: Tick
+[2022-09-22 23:06:44.401662] Order #23F5CB3A Mint Chocolate Ice Cream: Preparing in 3 seconds
+[2022-09-22 23:06:44.401802] Courier #21 will arrive in 4 seconds to pick up the next order
+[2022-09-22 23:06:44.401855] Order #C700AB30 Vegan Pizza: Preparing in 10 seconds
+[2022-09-22 23:06:44.401872] Courier #22 will arrive in 8 seconds to pick up the next order
+[2022-09-22 23:06:44.494938] Courier #2: Picked up Order #C18E1242 Cobb Salad, waited 2 ms, while the order waited for 0 ms
+[2022-09-22 23:06:44.494966] FifoCourierManager: Average food wait time: 1000 milliseconds
+[2022-09-22 23:06:44.494969] FifoCourierManager: Average courier wait time: 0 milliseconds
+[2022-09-22 23:06:45.395404] Courier #3 has arrived
+[2022-09-22 23:06:45.395420] Courier #3: Waiting for the next order
+[2022-09-22 23:06:45.395453] Order #972AA5B8 Chocolate Gelato: Ready for courier
+[2022-09-22 23:06:45.396823] Courier #7 has arrived
+[2022-09-22 23:06:45.396833] Courier #7: Waiting for the next order
+[2022-09-22 23:06:45.401730] Main: Tick
+[2022-09-22 23:06:45.401880] Order #CF0932A9 Orange Chicken: Preparing in 15 seconds
+[2022-09-22 23:06:45.401918] Courier #23 will arrive in 4 seconds to pick up the next order
+[2022-09-22 23:06:45.401930] Order #ED05DAFE MeatLoaf: Preparing in 7 seconds
+[2022-09-22 23:06:45.401945] Courier #24 will arrive in 14 seconds to pick up the next order
+[2022-09-22 23:06:45.496566] Courier #3: Picked up Order #972AA5B8 Chocolate Gelato, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:06:45.496606] FifoCourierManager: Average food wait time: 833 milliseconds
+[2022-09-22 23:06:45.496612] FifoCourierManager: Average courier wait time: 0 milliseconds
+[2022-09-22 23:06:45.496929] Courier #7: Picked up Order #D4EAD98F Spinach Omelet, waited 0 ms, while the order waited for 1997 ms
+[2022-09-22 23:06:45.496944] FifoCourierManager: Average food wait time: 999 milliseconds
+[2022-09-22 23:06:45.496949] FifoCourierManager: Average courier wait time: 0 milliseconds
+[2022-09-22 23:06:46.400732] Courier #18 has arrived
+[2022-09-22 23:06:46.400864] Courier #18: Waiting for the next order
+[2022-09-22 23:06:46.400912] Order #916DDBA3 Fudge Ice Cream Cake: Ready for courier
+[2022-09-22 23:06:46.401966] Main: Tick
+[2022-09-22 23:06:46.402120] Order #53F012E3 Milk: Preparing in 5 seconds
+[2022-09-22 23:06:46.402161] Courier #25 will arrive in 3 seconds to pick up the next order
+[2022-09-22 23:06:46.402173] Order #5DD79771 Pastrami Sandwich: Preparing in 8 seconds
+[2022-09-22 23:06:46.402215] Courier #26 will arrive in 13 seconds to pick up the next order
+[2022-09-22 23:06:46.501412] Courier #18: Picked up Order #916DDBA3 Fudge Ice Cream Cake, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:06:46.501447] FifoCourierManager: Average food wait time: 874 milliseconds
+[2022-09-22 23:06:46.501452] FifoCourierManager: Average courier wait time: 0 milliseconds
+[2022-09-22 23:06:47.395385] Order #2EC069E3 Acai Bowl: Ready for courier
+[2022-09-22 23:06:47.399096] Order #60FBE431 Beef Stew: Ready for courier
+[2022-09-22 23:06:47.399920] Order #1A4D0E6D Kale Salad: Ready for courier
+[2022-09-22 23:06:47.400088] Courier #19 has arrived
+[2022-09-22 23:06:47.400095] Courier #19: Waiting for the next order
+[2022-09-22 23:06:47.401981] Order #23F5CB3A Mint Chocolate Ice Cream: Ready for courier
+[2022-09-22 23:06:47.402050] Main: Tick
+[2022-09-22 23:06:47.402149] Order #F84D8263 Arugula: Preparing in 3 seconds
+[2022-09-22 23:06:47.402179] Courier #27 will arrive in 12 seconds to pick up the next order
+[2022-09-22 23:06:47.402187] Order #F7074980 Pickles: Preparing in 5 seconds
+[2022-09-22 23:06:47.402197] Courier #28 will arrive in 8 seconds to pick up the next order
+[2022-09-22 23:06:47.500415] Courier #19: Picked up Order #2EC069E3 Acai Bowl, waited 0 ms, while the order waited for 5 ms
+[2022-09-22 23:06:47.500441] FifoCourierManager: Average food wait time: 778 milliseconds
+[2022-09-22 23:06:47.500444] FifoCourierManager: Average courier wait time: 0 milliseconds
+[2022-09-22 23:06:48.393868] Order #58E9B5FE McFlury: Ready for courier
+[2022-09-22 23:06:48.395600] Courier #5 has arrived
+[2022-09-22 23:06:48.395609] Courier #5: Waiting for the next order
+[2022-09-22 23:06:48.396805] Order #66A2611C Cottage Cheese: Ready for courier
+[2022-09-22 23:06:48.396816] Courier #8 has arrived
+[2022-09-22 23:06:48.396818] Courier #8: Waiting for the next order
+[2022-09-22 23:06:48.402604] Courier #21 has arrived
+[2022-09-22 23:06:48.402619] Courier #21: Waiting for the next order
+[2022-09-22 23:06:48.402652] Main: Tick
+[2022-09-22 23:06:48.402853] Order #DCAFE7CA Chicken: Preparing in 8 seconds
+[2022-09-22 23:06:48.402952] Courier #29 will arrive in 7 seconds to pick up the next order
+[2022-09-22 23:06:48.402960] Order #614E4F4D Cookie Dough: Preparing in 9 seconds
+[2022-09-22 23:06:48.402972] Courier #30 will arrive in 12 seconds to pick up the next order
+[2022-09-22 23:06:48.496881] Courier #5: Picked up Order #58E9B5FE McFlury, waited 0 ms, while the order waited for 2 ms
+[2022-09-22 23:06:48.496924] FifoCourierManager: Average food wait time: 700 milliseconds
+[2022-09-22 23:06:48.496934] FifoCourierManager: Average courier wait time: 0 milliseconds
+[2022-09-22 23:06:48.496995] Courier #8: Picked up Order #66A2611C Cottage Cheese, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:06:48.497002] FifoCourierManager: Average food wait time: 636 milliseconds
+[2022-09-22 23:06:48.497004] FifoCourierManager: Average courier wait time: 0 milliseconds
+[2022-09-22 23:06:48.502887] Courier #21: Picked up Order #60FBE431 Beef Stew, waited 0 ms, while the order waited for 1004 ms
+[2022-09-22 23:06:48.502906] FifoCourierManager: Average food wait time: 667 milliseconds
+[2022-09-22 23:06:48.502909] FifoCourierManager: Average courier wait time: 0 milliseconds
+[2022-09-22 23:06:49.399791] Courier #11 has arrived
+[2022-09-22 23:06:49.399826] Courier #11: Waiting for the next order
+[2022-09-22 23:06:49.399934] Order #E868E485 Beef Hash: Ready for courier
+[2022-09-22 23:06:49.399974] Courier #17 has arrived
+[2022-09-22 23:06:49.399978] Courier #17: Waiting for the next order
+[2022-09-22 23:06:49.402289] Courier #23 has arrived
+[2022-09-22 23:06:49.402295] Courier #23: Waiting for the next order
+[2022-09-22 23:06:49.402311] Courier #25 has arrived
+[2022-09-22 23:06:49.402321] Courier #25: Waiting for the next order
+[2022-09-22 23:06:49.402720] Main: Tick
+[2022-09-22 23:06:49.402819] Order #D2D2D948 Hamburger: Preparing in 6 seconds
+[2022-09-22 23:06:49.402842] Courier #31 will arrive in 7 seconds to pick up the next order
+[2022-09-22 23:06:49.402849] Order #8275F014 French Fries: Preparing in 6 seconds
+[2022-09-22 23:06:49.402858] Courier #32 will arrive in 4 seconds to pick up the next order
+[2022-09-22 23:06:49.500973] Courier #11: Picked up Order #E868E485 Beef Hash, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:06:49.500997] FifoCourierManager: Average food wait time: 616 milliseconds
+[2022-09-22 23:06:49.501000] FifoCourierManager: Average courier wait time: 0 milliseconds
+[2022-09-22 23:06:49.501017] Courier #17: Picked up Order #1A4D0E6D Kale Salad, waited 0 ms, while the order waited for 2000 ms
+[2022-09-22 23:06:49.501031] FifoCourierManager: Average food wait time: 715 milliseconds
+[2022-09-22 23:06:49.501034] FifoCourierManager: Average courier wait time: 0 milliseconds
+[2022-09-22 23:06:49.502507] Courier #23: Picked up Order #23F5CB3A Mint Chocolate Ice Cream, waited 0 ms, while the order waited for 2000 ms
+[2022-09-22 23:06:49.502519] FifoCourierManager: Average food wait time: 800 milliseconds
+[2022-09-22 23:06:49.502522] FifoCourierManager: Average courier wait time: 0 milliseconds
+[2022-09-22 23:06:50.398446] Order #4CC9D503 Coke: Ready for courier
+[2022-09-22 23:06:50.400012] Courier #15 has arrived
+[2022-09-22 23:06:50.400030] Courier #15: Waiting for the next order
+[2022-09-22 23:06:50.402435] Order #F84D8263 Arugula: Ready for courier
+[2022-09-22 23:06:50.403012] Main: Tick
+[2022-09-22 23:06:50.403379] Order #9687809B Ice: Preparing in 5 seconds
+[2022-09-22 23:06:50.403513] Courier #33 will arrive in 13 seconds to pick up the next order
+[2022-09-22 23:06:50.403555] Order #E537A1B8 Carne Asada: Preparing in 8 seconds
+[2022-09-22 23:06:50.403593] Courier #34 will arrive in 13 seconds to pick up the next order
+[2022-09-22 23:06:50.409804] Courier #25: Picked up Order #4CC9D503 Coke, waited 996 ms, while the order waited for 0 ms
+[2022-09-22 23:06:50.409914] FifoCourierManager: Average food wait time: 750 milliseconds
+[2022-09-22 23:06:50.409923] FifoCourierManager: Average courier wait time: 62 milliseconds
+[2022-09-22 23:06:50.501294] Courier #15: Picked up Order #F84D8263 Arugula, waited 2 ms, while the order waited for 0 ms
+[2022-09-22 23:06:50.501356] FifoCourierManager: Average food wait time: 706 milliseconds
+[2022-09-22 23:06:50.501361] FifoCourierManager: Average courier wait time: 59 milliseconds
+[2022-09-22 23:06:51.401032] Courier #14 has arrived
+[2022-09-22 23:06:51.401107] Courier #14: Waiting for the next order
+[2022-09-22 23:06:51.402529] Order #53F012E3 Milk: Ready for courier
+[2022-09-22 23:06:51.403319] Main: Tick
+[2022-09-22 23:06:51.403673] Order #3AACCFCE Sherbet: Preparing in 6 seconds
+[2022-09-22 23:06:51.403802] Courier #35 will arrive in 6 seconds to pick up the next order
+[2022-09-22 23:06:51.403827] Order #1B56EE15 Orange Sorbet: Preparing in 3 seconds
+[2022-09-22 23:06:51.403862] Courier #36 will arrive in 7 seconds to pick up the next order
+[2022-09-22 23:06:51.502306] Courier #14: Picked up Order #53F012E3 Milk, waited 2 ms, while the order waited for 0 ms
+[2022-09-22 23:06:51.502332] FifoCourierManager: Average food wait time: 667 milliseconds
+[2022-09-22 23:06:51.502335] FifoCourierManager: Average courier wait time: 56 milliseconds
+[2022-09-22 23:06:52.399138] Order #7A5EA4ED Chunky Monkey: Ready for courier
+[2022-09-22 23:06:52.399303] Courier #12 has arrived
+[2022-09-22 23:06:52.399317] Courier #12: Waiting for the next order
+[2022-09-22 23:06:52.399741] Order #2E7F4153 Cheese: Ready for courier
+[2022-09-22 23:06:52.399767] Courier #13 has arrived
+[2022-09-22 23:06:52.399780] Courier #13: Waiting for the next order
+[2022-09-22 23:06:52.402329] Courier #22 has arrived
+[2022-09-22 23:06:52.402348] Courier #22: Waiting for the next order
+[2022-09-22 23:06:52.402386] Order #ED05DAFE MeatLoaf: Ready for courier
+[2022-09-22 23:06:52.402431] Order #F7074980 Pickles: Ready for courier
+[2022-09-22 23:06:52.403616] Main: Tick
+[2022-09-22 23:06:52.403776] Order #51C5017B Frosty: Preparing in 13 seconds
+[2022-09-22 23:06:52.403833] Courier #37 will arrive in 11 seconds to pick up the next order
+[2022-09-22 23:06:52.403846] Order #9748651E Fresh Bread: Preparing in 10 seconds
+[2022-09-22 23:06:52.403861] Courier #38 will arrive in 5 seconds to pick up the next order
+[2022-09-22 23:06:52.503366] Courier #12: Picked up Order #7A5EA4ED Chunky Monkey, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:06:52.503498] FifoCourierManager: Average food wait time: 632 milliseconds
+[2022-09-22 23:06:52.503506] FifoCourierManager: Average courier wait time: 53 milliseconds
+[2022-09-22 23:06:52.503559] Courier #13: Picked up Order #2E7F4153 Cheese, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:06:52.503583] FifoCourierManager: Average food wait time: 600 milliseconds
+[2022-09-22 23:06:52.503588] FifoCourierManager: Average courier wait time: 50 milliseconds
+[2022-09-22 23:06:52.503642] Courier #22: Picked up Order #ED05DAFE MeatLoaf, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:06:52.503666] FifoCourierManager: Average food wait time: 572 milliseconds
+[2022-09-22 23:06:52.503672] FifoCourierManager: Average courier wait time: 48 milliseconds
+[2022-09-22 23:06:53.398922] Courier #9 has arrived
+[2022-09-22 23:06:53.398981] Courier #9: Waiting for the next order
+[2022-09-22 23:06:53.400064] Order #2BFC7CA9 Pork Chop: Ready for courier
+[2022-09-22 23:06:53.400091] Courier #16 has arrived
+[2022-09-22 23:06:53.400100] Courier #16: Waiting for the next order
+[2022-09-22 23:06:53.403351] Courier #32 has arrived
+[2022-09-22 23:06:53.403366] Courier #32: Waiting for the next order
+[2022-09-22 23:06:53.403769] Main: Tick
+[2022-09-22 23:06:53.404025] Order #345CFEFE Burrito: Preparing in 11 seconds
+[2022-09-22 23:06:53.404115] Courier #39 will arrive in 15 seconds to pick up the next order
+[2022-09-22 23:06:53.404135] Order #87441694 Icy: Preparing in 5 seconds
+[2022-09-22 23:06:53.404162] Courier #40 will arrive in 9 seconds to pick up the next order
+[2022-09-22 23:06:53.500285] Courier #9: Picked up Order #2BFC7CA9 Pork Chop, waited 1 ms, while the order waited for 0 ms
+[2022-09-22 23:06:53.500372] FifoCourierManager: Average food wait time: 546 milliseconds
+[2022-09-22 23:06:53.500419] FifoCourierManager: Average courier wait time: 46 milliseconds
+[2022-09-22 23:06:53.500691] Courier #16: Picked up Order #F7074980 Pickles, waited 0 ms, while the order waited for 998 ms
+[2022-09-22 23:06:53.500753] FifoCourierManager: Average food wait time: 565 milliseconds
+[2022-09-22 23:06:53.500766] FifoCourierManager: Average courier wait time: 44 milliseconds
+[2022-09-22 23:06:54.403088] Order #C700AB30 Vegan Pizza: Ready for courier
+[2022-09-22 23:06:54.403124] Order #5DD79771 Pastrami Sandwich: Ready for courier
+[2022-09-22 23:06:54.403986] Main: Tick
+[2022-09-22 23:06:54.404034] Order #1B56EE15 Orange Sorbet: Ready for courier
+[2022-09-22 23:06:54.404098] Order #3713D8AF Push Pop: Preparing in 15 seconds
+[2022-09-22 23:06:54.404119] Courier #41 will arrive in 12 seconds to pick up the next order
+[2022-09-22 23:06:54.404125] Order #20343DEA Pasta: Preparing in 14 seconds
+[2022-09-22 23:06:54.404135] Courier #42 will arrive in 15 seconds to pick up the next order
+[2022-09-22 23:06:54.413917] Courier #32: Picked up Order #C700AB30 Vegan Pizza, waited 1000 ms, while the order waited for 0 ms
+[2022-09-22 23:06:54.413946] FifoCourierManager: Average food wait time: 542 milliseconds
+[2022-09-22 23:06:54.413950] FifoCourierManager: Average courier wait time: 83 milliseconds
+[2022-09-22 23:06:55.403476] Courier #28 has arrived
+[2022-09-22 23:06:55.403501] Courier #28: Waiting for the next order
+[2022-09-22 23:06:55.403541] Order #D2D2D948 Hamburger: Ready for courier
+[2022-09-22 23:06:55.403550] Order #8275F014 French Fries: Ready for courier
+[2022-09-22 23:06:55.403559] Courier #29 has arrived
+[2022-09-22 23:06:55.403562] Courier #29: Waiting for the next order
+[2022-09-22 23:06:55.403634] Order #9687809B Ice: Ready for courier
+[2022-09-22 23:06:55.404114] Main: Tick
+[2022-09-22 23:06:55.404259] Order #098604B5 Chicken Nuggets: Preparing in 4 seconds
+[2022-09-22 23:06:55.404302] Courier #43 will arrive in 3 seconds to pick up the next order
+[2022-09-22 23:06:55.404313] Order #A5697BAD Ice Cream Sandwich: Preparing in 7 seconds
+[2022-09-22 23:06:55.404327] Courier #44 will arrive in 8 seconds to pick up the next order
+[2022-09-22 23:06:55.507935] Courier #28: Picked up Order #5DD79771 Pastrami Sandwich, waited 0 ms, while the order waited for 1000 ms
+[2022-09-22 23:06:55.508102] FifoCourierManager: Average food wait time: 560 milliseconds
+[2022-09-22 23:06:55.508111] FifoCourierManager: Average courier wait time: 80 milliseconds
+[2022-09-22 23:06:55.508179] Courier #29: Picked up Order #D2D2D948 Hamburger, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:06:55.508208] FifoCourierManager: Average food wait time: 539 milliseconds
+[2022-09-22 23:06:55.508321] FifoCourierManager: Average courier wait time: 77 milliseconds
+[2022-09-22 23:06:56.404162] Courier #31 has arrived
+[2022-09-22 23:06:56.404184] Courier #31: Waiting for the next order
+[2022-09-22 23:06:56.404234] Order #DCAFE7CA Chicken: Ready for courier
+[2022-09-22 23:06:56.404313] Main: Tick
+[2022-09-22 23:06:56.404449] Order #E09F9282 Taco: Preparing in 12 seconds
+[2022-09-22 23:06:56.404495] Courier #45 will arrive in 12 seconds to pick up the next order
+[2022-09-22 23:06:56.404505] Order #9DF6BBC7 Tomato Soup: Preparing in 12 seconds
+[2022-09-22 23:06:56.404535] Courier #46 will arrive in 5 seconds to pick up the next order
+[2022-09-22 23:06:56.505408] Courier #31: Picked up Order #DCAFE7CA Chicken, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:06:56.505442] FifoCourierManager: Average food wait time: 519 milliseconds
+[2022-09-22 23:06:56.505444] FifoCourierManager: Average courier wait time: 74 milliseconds
+[2022-09-22 23:06:57.401437] Order #A9F8F42F Fresh Fruit: Ready for courier
+[2022-09-22 23:06:57.401548] Order #6D2C9EB3 Cranberry Salad: Ready for courier
+[2022-09-22 23:06:57.401613] Courier #20 has arrived
+[2022-09-22 23:06:57.401636] Courier #20: Waiting for the next order
+[2022-09-22 23:06:57.403307] Order #614E4F4D Cookie Dough: Ready for courier
+[2022-09-22 23:06:57.403901] Order #3AACCFCE Sherbet: Ready for courier
+[2022-09-22 23:06:57.404051] Courier #35 has arrived
+[2022-09-22 23:06:57.404068] Courier #35: Waiting for the next order
+[2022-09-22 23:06:57.404127] Courier #38 has arrived
+[2022-09-22 23:06:57.404141] Courier #38: Waiting for the next order
+[2022-09-22 23:06:57.404659] Main: Tick
+[2022-09-22 23:06:57.405142] Order #A2B13869 Vanilla Ice Cream: Preparing in 15 seconds
+[2022-09-22 23:06:57.405292] Courier #47 will arrive in 12 seconds to pick up the next order
+[2022-09-22 23:06:57.405333] Order #0522C2EC Poppers: Preparing in 8 seconds
+[2022-09-22 23:06:57.405392] Courier #48 will arrive in 11 seconds to pick up the next order
+[2022-09-22 23:06:57.502832] Courier #20: Picked up Order #A9F8F42F Fresh Fruit, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:06:57.502987] FifoCourierManager: Average food wait time: 500 milliseconds
+[2022-09-22 23:06:57.503003] FifoCourierManager: Average courier wait time: 72 milliseconds
+[2022-09-22 23:06:57.504309] Courier #35: Picked up Order #6D2C9EB3 Cranberry Salad, waited 0 ms, while the order waited for 3 ms
+[2022-09-22 23:06:57.504433] FifoCourierManager: Average food wait time: 483 milliseconds
+[2022-09-22 23:06:57.504455] FifoCourierManager: Average courier wait time: 69 milliseconds
+[2022-09-22 23:06:57.504663] Courier #38: Picked up Order #614E4F4D Cookie Dough, waited 0 ms, while the order waited for 1 ms
+[2022-09-22 23:06:57.504725] FifoCourierManager: Average food wait time: 467 milliseconds
+[2022-09-22 23:06:57.506552] FifoCourierManager: Average courier wait time: 67 milliseconds
+[2022-09-22 23:06:58.405263] Order #E537A1B8 Carne Asada: Ready for courier
+[2022-09-22 23:06:58.405424] Courier #36 has arrived
+[2022-09-22 23:06:58.405453] Courier #36: Waiting for the next order
+[2022-09-22 23:06:58.405585] Order #87441694 Icy: Ready for courier
+[2022-09-22 23:06:58.405631] Courier #43 has arrived
+[2022-09-22 23:06:58.405645] Courier #43: Waiting for the next order
+[2022-09-22 23:06:58.405800] Main: Tick
+[2022-09-22 23:06:58.406307] Order #ABA0FC48 Popsicle: Preparing in 13 seconds
+[2022-09-22 23:06:58.406463] Courier #49 will arrive in 4 seconds to pick up the next order
+[2022-09-22 23:06:58.406507] Order #68515B89 Strawberries: Preparing in 11 seconds
+[2022-09-22 23:06:58.406562] Courier #50 will arrive in 11 seconds to pick up the next order
+[2022-09-22 23:06:58.507235] Courier #36: Picked up Order #8275F014 French Fries, waited 0 ms, while the order waited for 3002 ms
+[2022-09-22 23:06:58.507384] FifoCourierManager: Average food wait time: 549 milliseconds
+[2022-09-22 23:06:58.507400] FifoCourierManager: Average courier wait time: 65 milliseconds
+[2022-09-22 23:06:58.507545] Courier #43: Picked up Order #9687809B Ice, waited 0 ms, while the order waited for 3002 ms
+[2022-09-22 23:06:58.507658] FifoCourierManager: Average food wait time: 625 milliseconds
+[2022-09-22 23:06:58.507673] FifoCourierManager: Average courier wait time: 63 milliseconds
+[2022-09-22 23:06:59.403486] Courier #24 has arrived
+[2022-09-22 23:06:59.403550] Courier #24: Waiting for the next order
+[2022-09-22 23:06:59.403650] Courier #27 has arrived
+[2022-09-22 23:06:59.403665] Courier #27: Waiting for the next order
+[2022-09-22 23:06:59.403719] Courier #26 has arrived
+[2022-09-22 23:06:59.403732] Courier #26: Waiting for the next order
+[2022-09-22 23:06:59.404572] Order #098604B5 Chicken Nuggets: Ready for courier
+[2022-09-22 23:06:59.406224] Main: Tick
+[2022-09-22 23:06:59.406644] Order #CAF107CC Brown Rice: Preparing in 6 seconds
+[2022-09-22 23:06:59.407112] Courier #51 will arrive in 11 seconds to pick up the next order
+[2022-09-22 23:06:59.407242] Order #4D308771 Cheese Pizza: Preparing in 10 seconds
+[2022-09-22 23:06:59.407312] Courier #52 will arrive in 13 seconds to pick up the next order
+[2022-09-22 23:06:59.505029] Courier #24: Picked up Order #E537A1B8 Carne Asada, waited 0 ms, while the order waited for 998 ms
+[2022-09-22 23:06:59.505209] FifoCourierManager: Average food wait time: 637 milliseconds
+[2022-09-22 23:06:59.505234] FifoCourierManager: Average courier wait time: 61 milliseconds
+[2022-09-22 23:06:59.505326] Courier #27: Picked up Order #3AACCFCE Sherbet, waited 0 ms, while the order waited for 2000 ms
+[2022-09-22 23:06:59.505385] FifoCourierManager: Average food wait time: 677 milliseconds
+[2022-09-22 23:06:59.505397] FifoCourierManager: Average courier wait time: 59 milliseconds
+[2022-09-22 23:06:59.505477] Courier #26: Picked up Order #1B56EE15 Orange Sorbet, waited 0 ms, while the order waited for 5000 ms
+[2022-09-22 23:06:59.505534] FifoCourierManager: Average food wait time: 800 milliseconds
+[2022-09-22 23:06:59.505557] FifoCourierManager: Average courier wait time: 57 milliseconds
+[2022-09-22 23:07:00.402739] Order #CF0932A9 Orange Chicken: Ready for courier
+[2022-09-22 23:07:00.403180] Courier #30 has arrived
+[2022-09-22 23:07:00.403189] Courier #30: Waiting for the next order
+[2022-09-22 23:07:00.406803] Main: Tick
+[2022-09-22 23:07:00.406916] Order #78B92574 Pressed Juice: Preparing in 14 seconds
+[2022-09-22 23:07:00.406946] Courier #53 will arrive in 7 seconds to pick up the next order
+[2022-09-22 23:07:00.406956] Order #1FAB9088 Coconut: Preparing in 14 seconds
+[2022-09-22 23:07:00.406970] Courier #54 will arrive in 15 seconds to pick up the next order
+[2022-09-22 23:07:00.506012] Courier #30: Picked up Order #CF0932A9 Orange Chicken, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:07:00.506212] FifoCourierManager: Average food wait time: 778 milliseconds
+[2022-09-22 23:07:00.506230] FifoCourierManager: Average courier wait time: 56 milliseconds
+[2022-09-22 23:07:01.405684] Courier #46 has arrived
+[2022-09-22 23:07:01.405693] Courier #46: Waiting for the next order
+[2022-09-22 23:07:01.407008] Main: Tick
+[2022-09-22 23:07:01.407115] Order #D7864CD5 Onion Rings: Preparing in 9 seconds
+[2022-09-22 23:07:01.407143] Courier #55 will arrive in 14 seconds to pick up the next order
+[2022-09-22 23:07:01.407150] Order #5F06BE90 Fish Tacos: Preparing in 10 seconds
+[2022-09-22 23:07:01.407158] Courier #56 will arrive in 10 seconds to pick up the next order
+[2022-09-22 23:07:01.507615] Courier #46: Picked up Order #87441694 Icy, waited 0 ms, while the order waited for 3000 ms
+[2022-09-22 23:07:01.507646] FifoCourierManager: Average food wait time: 838 milliseconds
+[2022-09-22 23:07:01.507649] FifoCourierManager: Average courier wait time: 54 milliseconds
+[2022-09-22 23:07:02.405167] Order #9748651E Fresh Bread: Ready for courier
+[2022-09-22 23:07:02.405209] Courier #40 has arrived
+[2022-09-22 23:07:02.405216] Courier #40: Waiting for the next order
+[2022-09-22 23:07:02.405254] Order #A5697BAD Ice Cream Sandwich: Ready for courier
+[2022-09-22 23:07:02.406792] Courier #49 has arrived
+[2022-09-22 23:07:02.406826] Courier #49: Waiting for the next order
+[2022-09-22 23:07:02.407129] Main: Tick
+[2022-09-22 23:07:02.407416] Order #90367105 Pot Stickers: Preparing in 3 seconds
+[2022-09-22 23:07:02.407526] Courier #57 will arrive in 4 seconds to pick up the next order
+[2022-09-22 23:07:02.407549] Order #05EF2197 Kombucha: Preparing in 6 seconds
+[2022-09-22 23:07:02.407650] Courier #58 will arrive in 11 seconds to pick up the next order
+[2022-09-22 23:07:02.506984] Courier #40: Picked up Order #9748651E Fresh Bread, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:07:02.507109] FifoCourierManager: Average food wait time: 816 milliseconds
+[2022-09-22 23:07:02.507119] FifoCourierManager: Average courier wait time: 53 milliseconds
+[2022-09-22 23:07:02.507337] Courier #49: Picked up Order #098604B5 Chicken Nuggets, waited 0 ms, while the order waited for 3002 ms
+[2022-09-22 23:07:02.507380] FifoCourierManager: Average food wait time: 872 milliseconds
+[2022-09-22 23:07:02.507389] FifoCourierManager: Average courier wait time: 51 milliseconds
+[2022-09-22 23:07:03.404992] Courier #33 has arrived
+[2022-09-22 23:07:03.405074] Courier #33: Waiting for the next order
+[2022-09-22 23:07:03.405210] Courier #34 has arrived
+[2022-09-22 23:07:03.405225] Courier #34: Waiting for the next order
+[2022-09-22 23:07:03.405285] Courier #37 has arrived
+[2022-09-22 23:07:03.405299] Courier #37: Waiting for the next order
+[2022-09-22 23:07:03.405852] Courier #44 has arrived
+[2022-09-22 23:07:03.405868] Courier #44: Waiting for the next order
+[2022-09-22 23:07:03.407515] Main: Tick
+[2022-09-22 23:07:03.408146] Order #41330835 Mixed Greens: Preparing in 13 seconds
+[2022-09-22 23:07:03.408292] Courier #59 will arrive in 10 seconds to pick up the next order
+[2022-09-22 23:07:03.408336] Order #51754609 Sushi: Preparing in 8 seconds
+[2022-09-22 23:07:03.408394] Courier #60 will arrive in 5 seconds to pick up the next order
+[2022-09-22 23:07:03.507022] Courier #33: Picked up Order #A5697BAD Ice Cream Sandwich, waited 0 ms, while the order waited for 1000 ms
+[2022-09-22 23:07:03.507194] FifoCourierManager: Average food wait time: 875 milliseconds
+[2022-09-22 23:07:03.507210] FifoCourierManager: Average courier wait time: 50 milliseconds
+[2022-09-22 23:07:04.404871] Order #345CFEFE Burrito: Ready for courier
+[2022-09-22 23:07:04.408132] Main: Tick
+[2022-09-22 23:07:04.408577] Order #3F0008F5 Apples: Preparing in 5 seconds
+[2022-09-22 23:07:04.408709] Courier #61 will arrive in 3 seconds to pick up the next order
+[2022-09-22 23:07:04.408751] Order #C052077C Kebab: Preparing in 10 seconds
+[2022-09-22 23:07:04.408805] Courier #62 will arrive in 10 seconds to pick up the next order
+[2022-09-22 23:07:04.421411] Courier #34: Picked up Order #345CFEFE Burrito, waited 1000 ms, while the order waited for 0 ms
+[2022-09-22 23:07:04.421881] FifoCourierManager: Average food wait time: 854 milliseconds
+[2022-09-22 23:07:04.421896] FifoCourierManager: Average courier wait time: 73 milliseconds
+[2022-09-22 23:07:05.406587] Order #51C5017B Frosty: Ready for courier
+[2022-09-22 23:07:05.406632] Order #0522C2EC Poppers: Ready for courier
+[2022-09-22 23:07:05.407140] Order #CAF107CC Brown Rice: Ready for courier
+[2022-09-22 23:07:05.407559] Order #90367105 Pot Stickers: Ready for courier
+[2022-09-22 23:07:05.408525] Main: Tick
+[2022-09-22 23:07:05.408760] Order #1B481A3E Mac & Cheese: Preparing in 12 seconds
+[2022-09-22 23:07:05.408820] Courier #63 will arrive in 7 seconds to pick up the next order
+[2022-09-22 23:07:05.408842] Order #B5D9491A Corn Dog: Preparing in 11 seconds
+[2022-09-22 23:07:05.408870] Courier #64 will arrive in 6 seconds to pick up the next order
+[2022-09-22 23:07:05.435168] Courier #37: Picked up Order #51C5017B Frosty, waited 2001 ms, while the order waited for 0 ms
+[2022-09-22 23:07:05.435249] FifoCourierManager: Average food wait time: 834 milliseconds
+[2022-09-22 23:07:05.435258] FifoCourierManager: Average courier wait time: 119 milliseconds
+[2022-09-22 23:07:05.435309] Courier #44: Picked up Order #0522C2EC Poppers, waited 2001 ms, while the order waited for 0 ms
+[2022-09-22 23:07:05.435345] FifoCourierManager: Average food wait time: 814 milliseconds
+[2022-09-22 23:07:05.435352] FifoCourierManager: Average courier wait time: 163 milliseconds
+[2022-09-22 23:07:06.405299] Courier #41 has arrived
+[2022-09-22 23:07:06.405366] Courier #41: Waiting for the next order
+[2022-09-22 23:07:06.408002] Courier #57 has arrived
+[2022-09-22 23:07:06.408028] Courier #57: Waiting for the next order
+[2022-09-22 23:07:06.408855] Main: Tick
+[2022-09-22 23:07:06.409340] Order #7BDF9AF2 Grilled Corn Salad: Preparing in 7 seconds
+[2022-09-22 23:07:06.409567] Courier #65 will arrive in 13 seconds to pick up the next order
+[2022-09-22 23:07:06.409612] Order #4B5793F3 Pistachio Ice Cream: Preparing in 8 seconds
+[2022-09-22 23:07:06.409671] Courier #66 will arrive in 12 seconds to pick up the next order
+[2022-09-22 23:07:06.507161] Courier #41: Picked up Order #CAF107CC Brown Rice, waited 0 ms, while the order waited for 998 ms
+[2022-09-22 23:07:06.507362] FifoCourierManager: Average food wait time: 818 milliseconds
+[2022-09-22 23:07:06.507378] FifoCourierManager: Average courier wait time: 159 milliseconds
+[2022-09-22 23:07:06.508319] Courier #57: Picked up Order #90367105 Pot Stickers, waited 0 ms, while the order waited for 1000 ms
+[2022-09-22 23:07:06.508387] FifoCourierManager: Average food wait time: 822 milliseconds
+[2022-09-22 23:07:06.508400] FifoCourierManager: Average courier wait time: 156 milliseconds
+[2022-09-22 23:07:07.408488] Courier #53 has arrived
+[2022-09-22 23:07:07.408572] Courier #53: Waiting for the next order
+[2022-09-22 23:07:07.408887] Courier #61 has arrived
+[2022-09-22 23:07:07.408906] Courier #61: Waiting for the next order
+[2022-09-22 23:07:07.409140] Main: Tick
+[2022-09-22 23:07:07.409651] Order #160CCC3A Strawberyy Banana Split: Preparing in 9 seconds
+[2022-09-22 23:07:07.409808] Courier #67 will arrive in 9 seconds to pick up the next order
+[2022-09-22 23:07:07.409851] Order #3B9DA9F3 McFlury: Preparing in 13 seconds
+[2022-09-22 23:07:07.409904] Courier #68 will arrive in 4 seconds to pick up the next order
+[2022-09-22 23:07:08.405505] Order #20343DEA Pasta: Ready for courier
+[2022-09-22 23:07:08.405619] Courier #39 has arrived
+[2022-09-22 23:07:08.405640] Courier #39: Waiting for the next order
+[2022-09-22 23:07:08.405744] Order #E09F9282 Taco: Ready for courier
+[2022-09-22 23:07:08.405788] Courier #45 has arrived
+[2022-09-22 23:07:08.405812] Courier #45: Waiting for the next order
+[2022-09-22 23:07:08.405866] Order #9DF6BBC7 Tomato Soup: Ready for courier
+[2022-09-22 23:07:08.406152] Courier #48 has arrived
+[2022-09-22 23:07:08.406168] Courier #48: Waiting for the next order
+[2022-09-22 23:07:08.407914] Order #05EF2197 Kombucha: Ready for courier
+[2022-09-22 23:07:08.408624] Courier #60 has arrived
+[2022-09-22 23:07:08.408639] Courier #60: Waiting for the next order
+[2022-09-22 23:07:08.409507] Main: Tick
+[2022-09-22 23:07:08.409914] Order #E6B72C73 Acai Bowl: Preparing in 9 seconds
+[2022-09-22 23:07:08.410069] Courier #69 will arrive in 9 seconds to pick up the next order
+[2022-09-22 23:07:08.410109] Order #4546646C Yogurt: Preparing in 8 seconds
+[2022-09-22 23:07:08.410158] Courier #70 will arrive in 5 seconds to pick up the next order
+[2022-09-22 23:07:08.422309] Courier #53: Picked up Order #20343DEA Pasta, waited 997 ms, while the order waited for 0 ms
+[2022-09-22 23:07:08.422449] FifoCourierManager: Average food wait time: 805 milliseconds
+[2022-09-22 23:07:08.422457] FifoCourierManager: Average courier wait time: 174 milliseconds
+[2022-09-22 23:07:08.422512] Courier #61: Picked up Order #E09F9282 Taco, waited 997 ms, while the order waited for 0 ms
+[2022-09-22 23:07:08.422543] FifoCourierManager: Average food wait time: 787 milliseconds
+[2022-09-22 23:07:08.422548] FifoCourierManager: Average courier wait time: 191 milliseconds
+[2022-09-22 23:07:08.507693] Courier #39: Picked up Order #9DF6BBC7 Tomato Soup, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:07:08.507898] FifoCourierManager: Average food wait time: 771 milliseconds
+[2022-09-22 23:07:08.507914] FifoCourierManager: Average courier wait time: 187 milliseconds
+[2022-09-22 23:07:08.508035] Courier #45: Picked up Order #05EF2197 Kombucha, waited 2 ms, while the order waited for 0 ms
+[2022-09-22 23:07:08.508105] FifoCourierManager: Average food wait time: 755 milliseconds
+[2022-09-22 23:07:08.508117] FifoCourierManager: Average courier wait time: 184 milliseconds
+[2022-09-22 23:07:09.404934] Order #3713D8AF Push Pop: Ready for courier
+[2022-09-22 23:07:09.405051] Courier #42 has arrived
+[2022-09-22 23:07:09.405074] Courier #42: Waiting for the next order
+[2022-09-22 23:07:09.405554] Courier #47 has arrived
+[2022-09-22 23:07:09.405578] Courier #47: Waiting for the next order
+[2022-09-22 23:07:09.406897] Order #68515B89 Strawberries: Ready for courier
+[2022-09-22 23:07:09.406944] Courier #50 has arrived
+[2022-09-22 23:07:09.406958] Courier #50: Waiting for the next order
+[2022-09-22 23:07:09.407514] Order #4D308771 Cheese Pizza: Ready for courier
+[2022-09-22 23:07:09.408890] Order #3F0008F5 Apples: Ready for courier
+[2022-09-22 23:07:09.409852] Main: Tick
+[2022-09-22 23:07:09.410257] Order #8EA031B3 Chocolate Gelato: Preparing in 9 seconds
+[2022-09-22 23:07:09.410395] Courier #71 will arrive in 15 seconds to pick up the next order
+[2022-09-22 23:07:09.410436] Order #24F3E17B Cobb Salad: Preparing in 3 seconds
+[2022-09-22 23:07:09.410489] Courier #72 will arrive in 10 seconds to pick up the next order
+[2022-09-22 23:07:09.419415] Courier #48: Picked up Order #3713D8AF Push Pop, waited 999 ms, while the order waited for 0 ms
+[2022-09-22 23:07:09.419579] FifoCourierManager: Average food wait time: 740 milliseconds
+[2022-09-22 23:07:09.419586] FifoCourierManager: Average courier wait time: 200 milliseconds
+[2022-09-22 23:07:09.419648] Courier #60: Picked up Order #68515B89 Strawberries, waited 998 ms, while the order waited for 0 ms
+[2022-09-22 23:07:09.419680] FifoCourierManager: Average food wait time: 726 milliseconds
+[2022-09-22 23:07:09.419686] FifoCourierManager: Average courier wait time: 216 milliseconds
+[2022-09-22 23:07:09.506894] Courier #42: Picked up Order #4D308771 Cheese Pizza, waited 2 ms, while the order waited for 0 ms
+[2022-09-22 23:07:09.507126] FifoCourierManager: Average food wait time: 712 milliseconds
+[2022-09-22 23:07:09.507142] FifoCourierManager: Average courier wait time: 212 milliseconds
+[2022-09-22 23:07:09.507253] Courier #47: Picked up Order #3F0008F5 Apples, waited 3 ms, while the order waited for 0 ms
+[2022-09-22 23:07:09.507328] FifoCourierManager: Average food wait time: 698 milliseconds
+[2022-09-22 23:07:09.507341] FifoCourierManager: Average courier wait time: 208 milliseconds
+[2022-09-22 23:07:10.408493] Order #D7864CD5 Onion Rings: Ready for courier
+[2022-09-22 23:07:10.408718] Courier #51 has arrived
+[2022-09-22 23:07:10.408726] Courier #51: Waiting for the next order
+[2022-09-22 23:07:10.410233] Main: Tick
+[2022-09-22 23:07:10.410391] Order #DEF3F65E Cottage Cheese: Preparing in 3 seconds
+[2022-09-22 23:07:10.410440] Courier #73 will arrive in 14 seconds to pick up the next order
+[2022-09-22 23:07:10.410450] Order #2C772706 Coke: Preparing in 12 seconds
+[2022-09-22 23:07:10.410462] Courier #74 will arrive in 4 seconds to pick up the next order
+[2022-09-22 23:07:10.419514] Courier #50: Picked up Order #D7864CD5 Onion Rings, waited 1002 ms, while the order waited for 0 ms
+[2022-09-22 23:07:10.419560] FifoCourierManager: Average food wait time: 685 milliseconds
+[2022-09-22 23:07:10.419563] FifoCourierManager: Average courier wait time: 222 milliseconds
+[2022-09-22 23:07:11.408028] Order #ABA0FC48 Popsicle: Ready for courier
+[2022-09-22 23:07:11.408142] Order #5F06BE90 Fish Tacos: Ready for courier
+[2022-09-22 23:07:11.408202] Courier #56 has arrived
+[2022-09-22 23:07:11.408224] Courier #56: Waiting for the next order
+[2022-09-22 23:07:11.408610] Order #51754609 Sushi: Ready for courier
+[2022-09-22 23:07:11.409080] Courier #64 has arrived
+[2022-09-22 23:07:11.409099] Courier #64: Waiting for the next order
+[2022-09-22 23:07:11.410191] Courier #68 has arrived
+[2022-09-22 23:07:11.410209] Courier #68: Waiting for the next order
+[2022-09-22 23:07:11.410411] Main: Tick
+[2022-09-22 23:07:11.410830] Order #A0023411 Snow Cone: Preparing in 15 seconds
+[2022-09-22 23:07:11.410978] Courier #75 will arrive in 11 seconds to pick up the next order
+[2022-09-22 23:07:11.411019] Order #46A4E47D Pad See Ew: Preparing in 10 seconds
+[2022-09-22 23:07:11.411075] Courier #76 will arrive in 9 seconds to pick up the next order
+[2022-09-22 23:07:11.422180] Courier #51: Picked up Order #ABA0FC48 Popsicle, waited 999 ms, while the order waited for 0 ms
+[2022-09-22 23:07:11.422330] FifoCourierManager: Average food wait time: 673 milliseconds
+[2022-09-22 23:07:11.422344] FifoCourierManager: Average courier wait time: 236 milliseconds
+[2022-09-22 23:07:11.510010] Courier #56: Picked up Order #5F06BE90 Fish Tacos, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:07:11.510245] FifoCourierManager: Average food wait time: 661 milliseconds
+[2022-09-22 23:07:11.510260] FifoCourierManager: Average courier wait time: 232 milliseconds
+[2022-09-22 23:07:11.510376] Courier #64: Picked up Order #51754609 Sushi, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:07:11.510452] FifoCourierManager: Average food wait time: 649 milliseconds
+[2022-09-22 23:07:11.510476] FifoCourierManager: Average courier wait time: 228 milliseconds
+[2022-09-22 23:07:12.406733] Order #A2B13869 Vanilla Ice Cream: Ready for courier
+[2022-09-22 23:07:12.407636] Courier #52 has arrived
+[2022-09-22 23:07:12.407657] Courier #52: Waiting for the next order
+[2022-09-22 23:07:12.409170] Courier #63 has arrived
+[2022-09-22 23:07:12.409191] Courier #63: Waiting for the next order
+[2022-09-22 23:07:12.410866] Order #24F3E17B Cobb Salad: Ready for courier
+[2022-09-22 23:07:12.410909] Main: Tick
+[2022-09-22 23:07:12.411323] Order #E65EF8C8 Chunky Monkey: Preparing in 8 seconds
+[2022-09-22 23:07:12.411454] Courier #77 will arrive in 11 seconds to pick up the next order
+[2022-09-22 23:07:12.411494] Order #848DFC63 Beef Stew: Preparing in 5 seconds
+[2022-09-22 23:07:12.411549] Courier #78 will arrive in 8 seconds to pick up the next order
+[2022-09-22 23:07:12.422561] Courier #68: Picked up Order #A2B13869 Vanilla Ice Cream, waited 996 ms, while the order waited for 0 ms
+[2022-09-22 23:07:12.422720] FifoCourierManager: Average food wait time: 638 milliseconds
+[2022-09-22 23:07:12.422737] FifoCourierManager: Average courier wait time: 241 milliseconds
+[2022-09-22 23:07:12.509167] Courier #52: Picked up Order #24F3E17B Cobb Salad, waited 3 ms, while the order waited for 0 ms
+[2022-09-22 23:07:12.509515] FifoCourierManager: Average food wait time: 627 milliseconds
+[2022-09-22 23:07:12.509537] FifoCourierManager: Average courier wait time: 237 milliseconds
+[2022-09-22 23:07:13.409302] Courier #58 has arrived
+[2022-09-22 23:07:13.409384] Courier #58: Waiting for the next order
+[2022-09-22 23:07:13.409511] Courier #59 has arrived
+[2022-09-22 23:07:13.409526] Courier #59: Waiting for the next order
+[2022-09-22 23:07:13.409737] Order #7BDF9AF2 Grilled Corn Salad: Ready for courier
+[2022-09-22 23:07:13.410408] Courier #70 has arrived
+[2022-09-22 23:07:13.410424] Courier #70: Waiting for the next order
+[2022-09-22 23:07:13.410568] Order #DEF3F65E Cottage Cheese: Ready for courier
+[2022-09-22 23:07:13.411202] Main: Tick
+[2022-09-22 23:07:13.411717] Order #42951124 Cheese: Preparing in 9 seconds
+[2022-09-22 23:07:13.411867] Courier #79 will arrive in 7 seconds to pick up the next order
+[2022-09-22 23:07:13.411910] Order #DF726AB4 Spinach Omelet: Preparing in 15 seconds
+[2022-09-22 23:07:13.411966] Courier #80 will arrive in 6 seconds to pick up the next order
+[2022-09-22 23:07:13.421732] Courier #63: Picked up Order #7BDF9AF2 Grilled Corn Salad, waited 1001 ms, while the order waited for 0 ms
+[2022-09-22 23:07:13.421887] FifoCourierManager: Average food wait time: 617 milliseconds
+[2022-09-22 23:07:13.421895] FifoCourierManager: Average courier wait time: 250 milliseconds
+[2022-09-22 23:07:13.510296] Courier #58: Picked up Order #DEF3F65E Cottage Cheese, waited 1 ms, while the order waited for 0 ms
+[2022-09-22 23:07:13.510522] FifoCourierManager: Average food wait time: 607 milliseconds
+[2022-09-22 23:07:13.510538] FifoCourierManager: Average courier wait time: 246 milliseconds
+[2022-09-22 23:07:14.407833] Order #78B92574 Pressed Juice: Ready for courier
+[2022-09-22 23:07:14.407934] Order #1FAB9088 Coconut: Ready for courier
+[2022-09-22 23:07:14.409047] Order #C052077C Kebab: Ready for courier
+[2022-09-22 23:07:14.409083] Courier #62 has arrived
+[2022-09-22 23:07:14.409098] Courier #62: Waiting for the next order
+[2022-09-22 23:07:14.409883] Order #4B5793F3 Pistachio Ice Cream: Ready for courier
+[2022-09-22 23:07:14.410721] Courier #74 has arrived
+[2022-09-22 23:07:14.410736] Courier #74: Waiting for the next order
+[2022-09-22 23:07:14.411566] Main: Tick
+[2022-09-22 23:07:14.411993] Order #5BB755B9 Beef Hash: Preparing in 13 seconds
+[2022-09-22 23:07:14.412145] Courier #81 will arrive in 4 seconds to pick up the next order
+[2022-09-22 23:07:14.412188] Order #58DBDB26 Pork Chop: Preparing in 10 seconds
+[2022-09-22 23:07:14.412239] Courier #82 will arrive in 5 seconds to pick up the next order
+[2022-09-22 23:07:14.427851] Courier #59: Picked up Order #78B92574 Pressed Juice, waited 998 ms, while the order waited for 0 ms
+[2022-09-22 23:07:14.428026] FifoCourierManager: Average food wait time: 597 milliseconds
+[2022-09-22 23:07:14.428035] FifoCourierManager: Average courier wait time: 258 milliseconds
+[2022-09-22 23:07:14.428093] Courier #70: Picked up Order #1FAB9088 Coconut, waited 998 ms, while the order waited for 0 ms
+[2022-09-22 23:07:14.428140] FifoCourierManager: Average food wait time: 587 milliseconds
+[2022-09-22 23:07:14.428147] FifoCourierManager: Average courier wait time: 270 milliseconds
+[2022-09-22 23:07:14.510772] Courier #62: Picked up Order #C052077C Kebab, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:07:14.510987] FifoCourierManager: Average food wait time: 578 milliseconds
+[2022-09-22 23:07:14.511001] FifoCourierManager: Average courier wait time: 266 milliseconds
+[2022-09-22 23:07:14.511282] Courier #74: Picked up Order #4B5793F3 Pistachio Ice Cream, waited 0 ms, while the order waited for 1 ms
+[2022-09-22 23:07:14.511370] FifoCourierManager: Average food wait time: 569 milliseconds
+[2022-09-22 23:07:14.511383] FifoCourierManager: Average courier wait time: 262 milliseconds
+[2022-09-22 23:07:15.408655] Courier #54 has arrived
+[2022-09-22 23:07:15.408742] Courier #54: Waiting for the next order
+[2022-09-22 23:07:15.408871] Courier #55 has arrived
+[2022-09-22 23:07:15.408885] Courier #55: Waiting for the next order
+[2022-09-22 23:07:15.412190] Main: Tick
+[2022-09-22 23:07:15.413006] Order #4ED428D6 Kale Salad: Preparing in 14 seconds
+[2022-09-22 23:07:15.413200] Courier #83 will arrive in 4 seconds to pick up the next order
+[2022-09-22 23:07:15.413263] Order #62E667EE Fresh Fruit: Preparing in 6 seconds
+[2022-09-22 23:07:15.413326] Courier #84 will arrive in 11 seconds to pick up the next order
+[2022-09-22 23:07:16.409789] Order #41330835 Mixed Greens: Ready for courier
+[2022-09-22 23:07:16.409900] Order #B5D9491A Corn Dog: Ready for courier
+[2022-09-22 23:07:16.410200] Order #160CCC3A Strawberyy Banana Split: Ready for courier
+[2022-09-22 23:07:16.410262] Courier #67 has arrived
+[2022-09-22 23:07:16.410286] Courier #67: Waiting for the next order
+[2022-09-22 23:07:16.410530] Order #4546646C Yogurt: Ready for courier
+[2022-09-22 23:07:16.413059] Main: Tick
+[2022-09-22 23:07:16.413499] Order #DF4E3E19 Cranberry Salad: Preparing in 9 seconds
+[2022-09-22 23:07:16.413648] Courier #85 will arrive in 12 seconds to pick up the next order
+[2022-09-22 23:07:16.413687] Order #44E6EA89 Fudge Ice Cream Cake: Preparing in 15 seconds
+[2022-09-22 23:07:16.413760] Courier #86 will arrive in 3 seconds to pick up the next order
+[2022-09-22 23:07:16.424190] Courier #54: Picked up Order #41330835 Mixed Greens, waited 1001 ms, while the order waited for 0 ms
+[2022-09-22 23:07:16.424359] FifoCourierManager: Average food wait time: 561 milliseconds
+[2022-09-22 23:07:16.424372] FifoCourierManager: Average courier wait time: 273 milliseconds
+[2022-09-22 23:07:16.424462] Courier #55: Picked up Order #B5D9491A Corn Dog, waited 1001 ms, while the order waited for 0 ms
+[2022-09-22 23:07:16.424542] FifoCourierManager: Average food wait time: 552 milliseconds
+[2022-09-22 23:07:16.424555] FifoCourierManager: Average courier wait time: 284 milliseconds
+[2022-09-22 23:07:16.511972] Courier #67: Picked up Order #160CCC3A Strawberyy Banana Split, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:07:16.512180] FifoCourierManager: Average food wait time: 544 milliseconds
+[2022-09-22 23:07:16.512195] FifoCourierManager: Average courier wait time: 279 milliseconds
+[2022-09-22 23:07:17.410398] Order #1B481A3E Mac & Cheese: Ready for courier
+[2022-09-22 23:07:17.410599] Order #E6B72C73 Acai Bowl: Ready for courier
+[2022-09-22 23:07:17.410660] Courier #69 has arrived
+[2022-09-22 23:07:17.410680] Courier #69: Waiting for the next order
+[2022-09-22 23:07:17.411755] Order #848DFC63 Beef Stew: Ready for courier
+[2022-09-22 23:07:17.413524] Main: Tick
+[2022-09-22 23:07:17.413942] Order #48465FC7 Mint Chocolate Ice Cream: Preparing in 10 seconds
+[2022-09-22 23:07:17.414088] Courier #87 will arrive in 3 seconds to pick up the next order
+[2022-09-22 23:07:17.414141] Order #FB850BD3 Vegan Pizza: Preparing in 8 seconds
+[2022-09-22 23:07:17.414195] Courier #88 will arrive in 10 seconds to pick up the next order
+[2022-09-22 23:07:17.512303] Courier #69: Picked up Order #1B481A3E Mac & Cheese, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:07:17.512526] FifoCourierManager: Average food wait time: 536 milliseconds
+[2022-09-22 23:07:17.512541] FifoCourierManager: Average courier wait time: 275 milliseconds
+[2022-09-22 23:07:18.410353] Courier #66 has arrived
+[2022-09-22 23:07:18.410414] Courier #66: Waiting for the next order
+[2022-09-22 23:07:18.410599] Order #8EA031B3 Chocolate Gelato: Ready for courier
+[2022-09-22 23:07:18.412487] Courier #81 has arrived
+[2022-09-22 23:07:18.412505] Courier #81: Waiting for the next order
+[2022-09-22 23:07:18.413914] Main: Tick
+[2022-09-22 23:07:18.414260] Order #8D6A4D1A Orange Chicken: Preparing in 6 seconds
+[2022-09-22 23:07:18.414358] Courier #89 will arrive in 12 seconds to pick up the next order
+[2022-09-22 23:07:18.414395] Order #68E83BF6 MeatLoaf: Preparing in 10 seconds
+[2022-09-22 23:07:18.414449] Courier #90 will arrive in 7 seconds to pick up the next order
+[2022-09-22 23:07:18.512124] Courier #66: Picked up Order #E6B72C73 Acai Bowl, waited 0 ms, while the order waited for 1000 ms
+[2022-09-22 23:07:18.512339] FifoCourierManager: Average food wait time: 543 milliseconds
+[2022-09-22 23:07:18.512354] FifoCourierManager: Average courier wait time: 271 milliseconds
+[2022-09-22 23:07:18.512772] Courier #81: Picked up Order #4546646C Yogurt, waited 0 ms, while the order waited for 2002 ms
+[2022-09-22 23:07:18.512877] FifoCourierManager: Average food wait time: 564 milliseconds
+[2022-09-22 23:07:18.512891] FifoCourierManager: Average courier wait time: 268 milliseconds
+[2022-09-22 23:07:19.411134] Courier #65 has arrived
+[2022-09-22 23:07:19.411201] Courier #65: Waiting for the next order
+[2022-09-22 23:07:19.411297] Courier #72 has arrived
+[2022-09-22 23:07:19.411305] Courier #72: Waiting for the next order
+[2022-09-22 23:07:19.412210] Courier #80 has arrived
+[2022-09-22 23:07:19.412219] Courier #80: Waiting for the next order
+[2022-09-22 23:07:19.412384] Courier #82 has arrived
+[2022-09-22 23:07:19.412391] Courier #82: Waiting for the next order
+[2022-09-22 23:07:19.413508] Courier #83 has arrived
+[2022-09-22 23:07:19.413519] Courier #83: Waiting for the next order
+[2022-09-22 23:07:19.413918] Courier #86 has arrived
+[2022-09-22 23:07:19.413932] Courier #86: Waiting for the next order
+[2022-09-22 23:07:19.414097] Main: Tick
+[2022-09-22 23:07:19.414384] Order #0D74C9F0 Milk: Preparing in 15 seconds
+[2022-09-22 23:07:19.414497] Courier #91 will arrive in 13 seconds to pick up the next order
+[2022-09-22 23:07:19.414517] Order #1B9A920D Pastrami Sandwich: Preparing in 3 seconds
+[2022-09-22 23:07:19.414546] Courier #92 will arrive in 7 seconds to pick up the next order
+[2022-09-22 23:07:19.512057] Courier #65: Picked up Order #8EA031B3 Chocolate Gelato, waited 0 ms, while the order waited for 1000 ms
+[2022-09-22 23:07:19.512156] FifoCourierManager: Average food wait time: 570 milliseconds
+[2022-09-22 23:07:19.512164] FifoCourierManager: Average courier wait time: 264 milliseconds
+[2022-09-22 23:07:19.512213] Courier #72: Picked up Order #848DFC63 Beef Stew, waited 0 ms, while the order waited for 2000 ms
+[2022-09-22 23:07:19.512266] FifoCourierManager: Average food wait time: 589 milliseconds
+[2022-09-22 23:07:19.512272] FifoCourierManager: Average courier wait time: 260 milliseconds
+[2022-09-22 23:07:20.411258] Order #3B9DA9F3 McFlury: Ready for courier
+[2022-09-22 23:07:20.411486] Courier #76 has arrived
+[2022-09-22 23:07:20.411506] Courier #76: Waiting for the next order
+[2022-09-22 23:07:20.411679] Order #E65EF8C8 Chunky Monkey: Ready for courier
+[2022-09-22 23:07:20.411769] Courier #78 has arrived
+[2022-09-22 23:07:20.411784] Courier #78: Waiting for the next order
+[2022-09-22 23:07:20.412076] Courier #79 has arrived
+[2022-09-22 23:07:20.412092] Courier #79: Waiting for the next order
+[2022-09-22 23:07:20.414534] Courier #87 has arrived
+[2022-09-22 23:07:20.414550] Courier #87: Waiting for the next order
+[2022-09-22 23:07:20.414604] Main: Tick
+[2022-09-22 23:07:20.414959] Order #C5EC5A4B Arugula: Preparing in 13 seconds
+[2022-09-22 23:07:20.415054] Courier #93 will arrive in 3 seconds to pick up the next order
+[2022-09-22 23:07:20.415092] Order #4C25F887 Pickles: Preparing in 13 seconds
+[2022-09-22 23:07:20.415140] Courier #94 will arrive in 5 seconds to pick up the next order
+[2022-09-22 23:07:20.424393] Courier #80: Picked up Order #3B9DA9F3 McFlury, waited 999 ms, while the order waited for 0 ms
+[2022-09-22 23:07:20.424489] FifoCourierManager: Average food wait time: 581 milliseconds
+[2022-09-22 23:07:20.424495] FifoCourierManager: Average courier wait time: 270 milliseconds
+[2022-09-22 23:07:20.424546] Courier #82: Picked up Order #E65EF8C8 Chunky Monkey, waited 999 ms, while the order waited for 0 ms
+[2022-09-22 23:07:20.424585] FifoCourierManager: Average food wait time: 574 milliseconds
+[2022-09-22 23:07:20.424618] FifoCourierManager: Average courier wait time: 280 milliseconds
+[2022-09-22 23:07:21.412400] Order #46A4E47D Pad See Ew: Ready for courier
+[2022-09-22 23:07:21.413517] Order #62E667EE Fresh Fruit: Ready for courier
+[2022-09-22 23:07:21.414939] Main: Tick
+[2022-09-22 23:07:21.415206] Order #7F2381BE Chicken: Preparing in 14 seconds
+[2022-09-22 23:07:21.415484] Courier #95 will arrive in 14 seconds to pick up the next order
+[2022-09-22 23:07:21.415504] Order #75BEF98F Cookie Dough: Preparing in 12 seconds
+[2022-09-22 23:07:21.415531] Courier #96 will arrive in 4 seconds to pick up the next order
+[2022-09-22 23:07:21.428147] Courier #76: Picked up Order #46A4E47D Pad See Ew, waited 1001 ms, while the order waited for 0 ms
+[2022-09-22 23:07:21.428248] FifoCourierManager: Average food wait time: 566 milliseconds
+[2022-09-22 23:07:21.428255] FifoCourierManager: Average courier wait time: 290 milliseconds
+[2022-09-22 23:07:21.428311] Courier #78: Picked up Order #62E667EE Fresh Fruit, waited 1002 ms, while the order waited for 0 ms
+[2022-09-22 23:07:21.428362] FifoCourierManager: Average food wait time: 559 milliseconds
+[2022-09-22 23:07:21.428368] FifoCourierManager: Average courier wait time: 299 milliseconds
+[2022-09-22 23:07:22.411776] Order #2C772706 Coke: Ready for courier
+[2022-09-22 23:07:22.411817] Courier #75 has arrived
+[2022-09-22 23:07:22.411825] Courier #75: Waiting for the next order
+[2022-09-22 23:07:22.411945] Order #42951124 Cheese: Ready for courier
+[2022-09-22 23:07:22.414962] Order #1B9A920D Pastrami Sandwich: Ready for courier
+[2022-09-22 23:07:22.415103] Main: Tick
+[2022-09-22 23:07:22.415344] Order #60DB864B Hamburger: Preparing in 13 seconds
+[2022-09-22 23:07:22.415418] Courier #97 will arrive in 15 seconds to pick up the next order
+[2022-09-22 23:07:22.415436] Order #22F532CA French Fries: Preparing in 9 seconds
+[2022-09-22 23:07:22.415457] Courier #98 will arrive in 13 seconds to pick up the next order
+[2022-09-22 23:07:22.441899] Courier #79: Picked up Order #2C772706 Coke, waited 2000 ms, while the order waited for 0 ms
+[2022-09-22 23:07:22.442074] FifoCourierManager: Average food wait time: 551 milliseconds
+[2022-09-22 23:07:22.442082] FifoCourierManager: Average courier wait time: 321 milliseconds
+[2022-09-22 23:07:22.442150] Courier #87: Picked up Order #42951124 Cheese, waited 1997 ms, while the order waited for 0 ms
+[2022-09-22 23:07:22.442240] FifoCourierManager: Average food wait time: 544 milliseconds
+[2022-09-22 23:07:22.442248] FifoCourierManager: Average courier wait time: 342 milliseconds
+[2022-09-22 23:07:22.446069] Courier #83: Picked up Order #1B9A920D Pastrami Sandwich, waited 3001 ms, while the order waited for 0 ms
+[2022-09-22 23:07:22.446166] FifoCourierManager: Average food wait time: 538 milliseconds
+[2022-09-22 23:07:22.446173] FifoCourierManager: Average courier wait time: 375 milliseconds
+[2022-09-22 23:07:23.412283] Courier #77 has arrived
+[2022-09-22 23:07:23.412298] Courier #77: Waiting for the next order
+[2022-09-22 23:07:23.415505] Courier #93 has arrived
+[2022-09-22 23:07:23.415510] Courier #93: Waiting for the next order
+[2022-09-22 23:07:23.415532] Main: Tick
+[2022-09-22 23:07:23.415643] Order #A0D76390 Ice: Preparing in 10 seconds
+[2022-09-22 23:07:23.415672] Courier #99 will arrive in 10 seconds to pick up the next order
+[2022-09-22 23:07:23.415682] Order #020AD68F Carne Asada: Preparing in 8 seconds
+[2022-09-22 23:07:23.415694] Courier #100 will arrive in 9 seconds to pick up the next order
+[2022-09-22 23:07:24.411776] Courier #71 has arrived
+[2022-09-22 23:07:24.411802] Courier #71: Waiting for the next order
+[2022-09-22 23:07:24.411844] Courier #73 has arrived
+[2022-09-22 23:07:24.411848] Courier #73: Waiting for the next order
+[2022-09-22 23:07:24.412411] Order #58DBDB26 Pork Chop: Ready for courier
+[2022-09-22 23:07:24.414717] Order #8D6A4D1A Orange Chicken: Ready for courier
+[2022-09-22 23:07:24.415744] Main: Tick
+[2022-09-22 23:07:24.416137] Order #2AAB593E Sherbet: Preparing in 3 seconds
+[2022-09-22 23:07:24.416175] Courier #101 will arrive in 4 seconds to pick up the next order
+[2022-09-22 23:07:24.416185] Order #3447ACDB Orange Sorbet: Preparing in 14 seconds
+[2022-09-22 23:07:24.416197] Courier #102 will arrive in 13 seconds to pick up the next order
+[2022-09-22 23:07:24.427583] Courier #77: Picked up Order #58DBDB26 Pork Chop, waited 1000 ms, while the order waited for 0 ms
+[2022-09-22 23:07:24.427630] FifoCourierManager: Average food wait time: 531 milliseconds
+[2022-09-22 23:07:24.427633] FifoCourierManager: Average courier wait time: 383 milliseconds
+[2022-09-22 23:07:24.427664] Courier #93: Picked up Order #8D6A4D1A Orange Chicken, waited 999 ms, while the order waited for 0 ms
+[2022-09-22 23:07:24.427688] FifoCourierManager: Average food wait time: 525 milliseconds
+[2022-09-22 23:07:24.427690] FifoCourierManager: Average courier wait time: 390 milliseconds
+[2022-09-22 23:07:25.414214] Order #DF4E3E19 Cranberry Salad: Ready for courier
+[2022-09-22 23:07:25.414440] Order #FB850BD3 Vegan Pizza: Ready for courier
+[2022-09-22 23:07:25.414656] Courier #90 has arrived
+[2022-09-22 23:07:25.414681] Courier #90: Waiting for the next order
+[2022-09-22 23:07:25.415424] Courier #94 has arrived
+[2022-09-22 23:07:25.415441] Courier #94: Waiting for the next order
+[2022-09-22 23:07:25.415703] Courier #96 has arrived
+[2022-09-22 23:07:25.415720] Courier #96: Waiting for the next order
+[2022-09-22 23:07:25.415884] Main: Tick
+[2022-09-22 23:07:25.416320] Order #F6E68DA8 Frosty: Preparing in 10 seconds
+[2022-09-22 23:07:25.416458] Courier #103 will arrive in 13 seconds to pick up the next order
+[2022-09-22 23:07:25.416498] Order #BCD22756 Fresh Bread: Preparing in 5 seconds
+[2022-09-22 23:07:25.416593] Courier #104 will arrive in 10 seconds to pick up the next order
+[2022-09-22 23:07:25.427200] Courier #71: Picked up Order #DF4E3E19 Cranberry Salad, waited 1002 ms, while the order waited for 0 ms
+[2022-09-22 23:07:25.427265] FifoCourierManager: Average food wait time: 518 milliseconds
+[2022-09-22 23:07:25.427269] FifoCourierManager: Average courier wait time: 398 milliseconds
+[2022-09-22 23:07:25.427303] Courier #73: Picked up Order #FB850BD3 Vegan Pizza, waited 1003 ms, while the order waited for 0 ms
+[2022-09-22 23:07:25.427332] FifoCourierManager: Average food wait time: 512 milliseconds
+[2022-09-22 23:07:25.427336] FifoCourierManager: Average courier wait time: 405 milliseconds
+[2022-09-22 23:07:26.412211] Order #A0023411 Snow Cone: Ready for courier
+[2022-09-22 23:07:26.413677] Courier #84 has arrived
+[2022-09-22 23:07:26.413690] Courier #84: Waiting for the next order
+[2022-09-22 23:07:26.414805] Courier #92 has arrived
+[2022-09-22 23:07:26.414813] Courier #92: Waiting for the next order
+[2022-09-22 23:07:26.416283] Main: Tick
+[2022-09-22 23:07:26.416714] Order #506A5C01 Burrito: Preparing in 9 seconds
+[2022-09-22 23:07:26.416830] Courier #105 will arrive in 9 seconds to pick up the next order
+[2022-09-22 23:07:26.416875] Order #10EA72C1 Icy: Preparing in 9 seconds
+[2022-09-22 23:07:26.416929] Courier #106 will arrive in 9 seconds to pick up the next order
+[2022-09-22 23:07:26.426507] Courier #90: Picked up Order #A0023411 Snow Cone, waited 998 ms, while the order waited for 0 ms
+[2022-09-22 23:07:26.426613] FifoCourierManager: Average food wait time: 506 milliseconds
+[2022-09-22 23:07:26.426620] FifoCourierManager: Average courier wait time: 412 milliseconds
+[2022-09-22 23:07:27.413380] Order #5BB755B9 Beef Hash: Ready for courier
+[2022-09-22 23:07:27.414249] Order #48465FC7 Mint Chocolate Ice Cream: Ready for courier
+[2022-09-22 23:07:27.414463] Courier #88 has arrived
+[2022-09-22 23:07:27.414484] Courier #88: Waiting for the next order
+[2022-09-22 23:07:27.414937] Courier #86: Picked up Order #5BB755B9 Beef Hash, waited 7999 ms, while the order waited for 0 ms
+[2022-09-22 23:07:27.415068] FifoCourierManager: Average food wait time: 500 milliseconds
+[2022-09-22 23:07:27.415082] FifoCourierManager: Average courier wait time: 500 milliseconds
+[2022-09-22 23:07:27.416441] Order #2AAB593E Sherbet: Ready for courier
+[2022-09-22 23:07:27.416559] Main: Tick
+[2022-09-22 23:07:27.416889] Order #5E9CB832 Push Pop: Preparing in 7 seconds
+[2022-09-22 23:07:27.416977] Courier #107 will arrive in 9 seconds to pick up the next order
+[2022-09-22 23:07:27.417014] Order #A7D778FF Pasta: Preparing in 7 seconds
+[2022-09-22 23:07:27.417063] Courier #108 will arrive in 10 seconds to pick up the next order
+[2022-09-22 23:07:27.424386] Courier #84: Picked up Order #48465FC7 Mint Chocolate Ice Cream, waited 1001 ms, while the order waited for 0 ms
+[2022-09-22 23:07:27.424537] FifoCourierManager: Average food wait time: 494 milliseconds
+[2022-09-22 23:07:27.424551] FifoCourierManager: Average courier wait time: 506 milliseconds
+[2022-09-22 23:07:27.424647] Courier #92: Picked up Order #2AAB593E Sherbet, waited 1002 ms, while the order waited for 0 ms
+[2022-09-22 23:07:27.424740] FifoCourierManager: Average food wait time: 489 milliseconds
+[2022-09-22 23:07:27.424821] FifoCourierManager: Average courier wait time: 511 milliseconds
+[2022-09-22 23:07:28.412977] Order #DF726AB4 Spinach Omelet: Ready for courier
+[2022-09-22 23:07:28.413978] Courier #85 has arrived
+[2022-09-22 23:07:28.414002] Courier #85: Waiting for the next order
+[2022-09-22 23:07:28.414684] Order #68E83BF6 MeatLoaf: Ready for courier
+[2022-09-22 23:07:28.416550] Courier #101 has arrived
+[2022-09-22 23:07:28.416568] Courier #101: Waiting for the next order
+[2022-09-22 23:07:28.416771] Main: Tick
+[2022-09-22 23:07:28.417230] Order #40990373 Chicken Nuggets: Preparing in 10 seconds
+[2022-09-22 23:07:28.417313] Courier #109 will arrive in 8 seconds to pick up the next order
+[2022-09-22 23:07:28.417352] Order #3EA0971E Ice Cream Sandwich: Preparing in 11 seconds
+[2022-09-22 23:07:28.417403] Courier #110 will arrive in 12 seconds to pick up the next order
+[2022-09-22 23:07:28.427452] Courier #88: Picked up Order #DF726AB4 Spinach Omelet, waited 998 ms, while the order waited for 0 ms
+[2022-09-22 23:07:28.427555] FifoCourierManager: Average food wait time: 483 milliseconds
+[2022-09-22 23:07:28.427562] FifoCourierManager: Average courier wait time: 517 milliseconds
+[2022-09-22 23:07:28.452438] Courier #94: Picked up Order #68E83BF6 MeatLoaf, waited 2999 ms, while the order waited for 0 ms
+[2022-09-22 23:07:28.452555] FifoCourierManager: Average food wait time: 478 milliseconds
+[2022-09-22 23:07:28.452563] FifoCourierManager: Average courier wait time: 545 milliseconds
+[2022-09-22 23:07:29.414423] Order #4ED428D6 Kale Salad: Ready for courier
+[2022-09-22 23:07:29.417265] Main: Tick
+[2022-09-22 23:07:29.417805] Order #33BCF189 Taco: Preparing in 10 seconds
+[2022-09-22 23:07:29.417879] Courier #111 will arrive in 13 seconds to pick up the next order
+[2022-09-22 23:07:29.417898] Order #22FC8AE6 Tomato Soup: Preparing in 8 seconds
+[2022-09-22 23:07:29.417924] Courier #112 will arrive in 13 seconds to pick up the next order
+[2022-09-22 23:07:29.426111] Courier #85: Picked up Order #4ED428D6 Kale Salad, waited 1000 ms, while the order waited for 0 ms
+[2022-09-22 23:07:29.426253] FifoCourierManager: Average food wait time: 473 milliseconds
+[2022-09-22 23:07:29.426261] FifoCourierManager: Average courier wait time: 550 milliseconds
+[2022-09-22 23:07:30.415813] Courier #89 has arrived
+[2022-09-22 23:07:30.415860] Courier #89: Waiting for the next order
+[2022-09-22 23:07:30.416804] Order #BCD22756 Fresh Bread: Ready for courier
+[2022-09-22 23:07:30.417628] Main: Tick
+[2022-09-22 23:07:30.418027] Order #19DE820C Vanilla Ice Cream: Preparing in 3 seconds
+[2022-09-22 23:07:30.418129] Courier #113 will arrive in 13 seconds to pick up the next order
+[2022-09-22 23:07:30.418173] Order #3B62609C Poppers: Preparing in 5 seconds
+[2022-09-22 23:07:30.418223] Courier #114 will arrive in 11 seconds to pick up the next order
+[2022-09-22 23:07:30.441289] Courier #101: Picked up Order #BCD22756 Fresh Bread, waited 2000 ms, while the order waited for 0 ms
+[2022-09-22 23:07:30.441492] FifoCourierManager: Average food wait time: 468 milliseconds
+[2022-09-22 23:07:30.441507] FifoCourierManager: Average courier wait time: 565 milliseconds
+[2022-09-22 23:07:31.415164] Order #44E6EA89 Fudge Ice Cream Cake: Ready for courier
+[2022-09-22 23:07:31.415668] Order #22F532CA French Fries: Ready for courier
+[2022-09-22 23:07:31.415864] Order #020AD68F Carne Asada: Ready for courier
+[2022-09-22 23:07:31.418044] Main: Tick
+[2022-09-22 23:07:31.418300] Order #DF79A7E4 Popsicle: Preparing in 5 seconds
+[2022-09-22 23:07:31.418359] Courier #115 will arrive in 8 seconds to pick up the next order
+[2022-09-22 23:07:31.418379] Order #D5FBBEE2 Strawberries: Preparing in 10 seconds
+[2022-09-22 23:07:31.418406] Courier #116 will arrive in 13 seconds to pick up the next order
+[2022-09-22 23:07:31.430188] Courier #89: Picked up Order #44E6EA89 Fudge Ice Cream Cake, waited 999 ms, while the order waited for 0 ms
+[2022-09-22 23:07:31.430353] FifoCourierManager: Average food wait time: 463 milliseconds
+[2022-09-22 23:07:31.430368] FifoCourierManager: Average courier wait time: 570 milliseconds
+[2022-09-22 23:07:31.430521] Courier #75: Picked up Order #22F532CA French Fries, waited 9004 ms, while the order waited for 0 ms
+[2022-09-22 23:07:31.430614] FifoCourierManager: Average food wait time: 458 milliseconds
+[2022-09-22 23:07:31.430627] FifoCourierManager: Average courier wait time: 660 milliseconds
+[2022-09-22 23:07:31.495608] Courier #96: Picked up Order #020AD68F Carne Asada, waited 6000 ms, while the order waited for 0 ms
+[2022-09-22 23:07:31.495812] FifoCourierManager: Average food wait time: 453 milliseconds
+[2022-09-22 23:07:31.495827] FifoCourierManager: Average courier wait time: 716 milliseconds
+[2022-09-22 23:07:32.415962] Courier #91 has arrived
+[2022-09-22 23:07:32.416036] Courier #91: Waiting for the next order
+[2022-09-22 23:07:32.416331] Courier #100 has arrived
+[2022-09-22 23:07:32.416347] Courier #100: Waiting for the next order
+[2022-09-22 23:07:32.418468] Main: Tick
+[2022-09-22 23:07:32.419152] Order #69AD8B1C Brown Rice: Preparing in 14 seconds
+[2022-09-22 23:07:32.419252] Courier #117 will arrive in 11 seconds to pick up the next order
+[2022-09-22 23:07:32.419273] Order #68037649 Cheese Pizza: Preparing in 13 seconds
+[2022-09-22 23:07:32.419302] Courier #118 will arrive in 12 seconds to pick up the next order
+[2022-09-22 23:07:33.415963] Order #C5EC5A4B Arugula: Ready for courier
+[2022-09-22 23:07:33.416042] Order #4C25F887 Pickles: Ready for courier
+[2022-09-22 23:07:33.416153] Order #75BEF98F Cookie Dough: Ready for courier
+[2022-09-22 23:07:33.416180] Order #A0D76390 Ice: Ready for courier
+[2022-09-22 23:07:33.416213] Courier #99 has arrived
+[2022-09-22 23:07:33.416230] Courier #99: Waiting for the next order
+[2022-09-22 23:07:33.418364] Order #19DE820C Vanilla Ice Cream: Ready for courier
+[2022-09-22 23:07:33.418730] Main: Tick
+[2022-09-22 23:07:33.419138] Order #5BD1E697 Pressed Juice: Preparing in 13 seconds
+[2022-09-22 23:07:33.419277] Courier #119 will arrive in 11 seconds to pick up the next order
+[2022-09-22 23:07:33.419315] Order #228EC414 Coconut: Preparing in 13 seconds
+[2022-09-22 23:07:33.419364] Courier #120 will arrive in 3 seconds to pick up the next order
+[2022-09-22 23:07:33.428919] Courier #91: Picked up Order #C5EC5A4B Arugula, waited 1000 ms, while the order waited for 0 ms
+[2022-09-22 23:07:33.429116] FifoCourierManager: Average food wait time: 448 milliseconds
+[2022-09-22 23:07:33.429123] FifoCourierManager: Average courier wait time: 719 milliseconds
+[2022-09-22 23:07:33.429181] Courier #100: Picked up Order #4C25F887 Pickles, waited 1000 ms, while the order waited for 0 ms
+[2022-09-22 23:07:33.429225] FifoCourierManager: Average food wait time: 443 milliseconds
+[2022-09-22 23:07:33.429238] FifoCourierManager: Average courier wait time: 722 milliseconds
+[2022-09-22 23:07:33.517464] Courier #99: Picked up Order #75BEF98F Cookie Dough, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:07:33.517505] FifoCourierManager: Average food wait time: 439 milliseconds
+[2022-09-22 23:07:33.517508] FifoCourierManager: Average courier wait time: 714 milliseconds
+[2022-09-22 23:07:34.415793] Order #0D74C9F0 Milk: Ready for courier
+[2022-09-22 23:07:34.417185] Order #5E9CB832 Push Pop: Ready for courier
+[2022-09-22 23:07:34.417206] Order #A7D778FF Pasta: Ready for courier
+[2022-09-22 23:07:34.419187] Main: Tick
+[2022-09-22 23:07:34.419311] Order #B1315BFB Onion Rings: Preparing in 6 seconds
+[2022-09-22 23:07:34.419338] Courier #121 will arrive in 12 seconds to pick up the next order
+[2022-09-22 23:07:34.420414] Order #EAFCB22B Fish Tacos: Preparing in 13 seconds
+[2022-09-22 23:07:34.420441] Courier #122 will arrive in 15 seconds to pick up the next order
+[2022-09-22 23:07:35.416288] Order #60DB864B Hamburger: Ready for courier
+[2022-09-22 23:07:35.416302] Order #7F2381BE Chicken: Ready for courier
+[2022-09-22 23:07:35.416309] Courier #98 has arrived
+[2022-09-22 23:07:35.416312] Courier #98: Waiting for the next order
+[2022-09-22 23:07:35.416326] Courier #95 has arrived
+[2022-09-22 23:07:35.416328] Courier #95: Waiting for the next order
+[2022-09-22 23:07:35.416495] Order #F6E68DA8 Frosty: Ready for courier
+[2022-09-22 23:07:35.416782] Courier #104 has arrived
+[2022-09-22 23:07:35.416788] Courier #104: Waiting for the next order
+[2022-09-22 23:07:35.416899] Order #506A5C01 Burrito: Ready for courier
+[2022-09-22 23:07:35.416972] Courier #105 has arrived
+[2022-09-22 23:07:35.416975] Courier #105: Waiting for the next order
+[2022-09-22 23:07:35.417020] Order #10EA72C1 Icy: Ready for courier
+[2022-09-22 23:07:35.417070] Courier #106 has arrived
+[2022-09-22 23:07:35.417073] Courier #106: Waiting for the next order
+[2022-09-22 23:07:35.418366] Order #3B62609C Poppers: Ready for courier
+[2022-09-22 23:07:35.419378] Main: Tick
+[2022-09-22 23:07:35.419464] Order #B25914FA Pot Stickers: Preparing in 11 seconds
+[2022-09-22 23:07:35.419485] Courier #123 will arrive in 3 seconds to pick up the next order
+[2022-09-22 23:07:35.419492] Order #03267CA9 Kombucha: Preparing in 4 seconds
+[2022-09-22 23:07:35.419500] Courier #124 will arrive in 8 seconds to pick up the next order
+[2022-09-22 23:07:35.517260] Courier #98: Picked up Order #0D74C9F0 Milk, waited 0 ms, while the order waited for 1001 ms
+[2022-09-22 23:07:35.517317] FifoCourierManager: Average food wait time: 445 milliseconds
+[2022-09-22 23:07:35.517320] FifoCourierManager: Average courier wait time: 707 milliseconds
+[2022-09-22 23:07:35.517354] Courier #95: Picked up Order #7F2381BE Chicken, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:07:35.517380] FifoCourierManager: Average food wait time: 440 milliseconds
+[2022-09-22 23:07:35.517383] FifoCourierManager: Average courier wait time: 700 milliseconds
+[2022-09-22 23:07:35.517406] Courier #104: Picked up Order #60DB864B Hamburger, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:07:35.517430] FifoCourierManager: Average food wait time: 436 milliseconds
+[2022-09-22 23:07:35.517432] FifoCourierManager: Average courier wait time: 693 milliseconds
+[2022-09-22 23:07:35.517457] Courier #105: Picked up Order #A0D76390 Ice, waited 0 ms, while the order waited for 2001 ms
+[2022-09-22 23:07:35.517481] FifoCourierManager: Average food wait time: 451 milliseconds
+[2022-09-22 23:07:35.517484] FifoCourierManager: Average courier wait time: 686 milliseconds
+[2022-09-22 23:07:35.517549] Courier #106: Picked up Order #F6E68DA8 Frosty, waited 0 ms, while the order waited for 1 ms
+[2022-09-22 23:07:35.517574] FifoCourierManager: Average food wait time: 447 milliseconds
+[2022-09-22 23:07:35.517577] FifoCourierManager: Average courier wait time: 680 milliseconds
+[2022-09-22 23:07:36.418279] Courier #107 has arrived
+[2022-09-22 23:07:36.418325] Courier #107: Waiting for the next order
+[2022-09-22 23:07:36.418393] Courier #109 has arrived
+[2022-09-22 23:07:36.418403] Courier #109: Waiting for the next order
+[2022-09-22 23:07:36.418511] Order #DF79A7E4 Popsicle: Ready for courier
+[2022-09-22 23:07:36.419588] Main: Tick
+[2022-09-22 23:07:36.419683] Courier #120 has arrived
+[2022-09-22 23:07:36.419691] Courier #120: Waiting for the next order
+[2022-09-22 23:07:36.419856] Order #9012736D Mixed Greens: Preparing in 3 seconds
+[2022-09-22 23:07:36.419920] Courier #125 will arrive in 7 seconds to pick up the next order
+[2022-09-22 23:07:36.419943] Order #F21BF58B Sushi: Preparing in 3 seconds
+[2022-09-22 23:07:36.419974] Courier #126 will arrive in 12 seconds to pick up the next order
+[2022-09-22 23:07:36.520132] Courier #107: Picked up Order #506A5C01 Burrito, waited 0 ms, while the order waited for 1001 ms
+[2022-09-22 23:07:36.520426] FifoCourierManager: Average food wait time: 452 milliseconds
+[2022-09-22 23:07:36.520442] FifoCourierManager: Average courier wait time: 673 milliseconds
+[2022-09-22 23:07:36.520554] Courier #109: Picked up Order #10EA72C1 Icy, waited 0 ms, while the order waited for 1001 ms
+[2022-09-22 23:07:36.520670] FifoCourierManager: Average food wait time: 457 milliseconds
+[2022-09-22 23:07:36.520683] FifoCourierManager: Average courier wait time: 667 milliseconds
+[2022-09-22 23:07:36.520974] Courier #120: Picked up Order #5E9CB832 Push Pop, waited 0 ms, while the order waited for 2003 ms
+[2022-09-22 23:07:36.521078] FifoCourierManager: Average food wait time: 472 milliseconds
+[2022-09-22 23:07:36.521091] FifoCourierManager: Average courier wait time: 660 milliseconds
+[2022-09-22 23:07:37.417105] Courier #97 has arrived
+[2022-09-22 23:07:37.417177] Courier #97: Waiting for the next order
+[2022-09-22 23:07:37.417304] Courier #102 has arrived
+[2022-09-22 23:07:37.417317] Courier #102: Waiting for the next order
+[2022-09-22 23:07:37.418673] Order #22FC8AE6 Tomato Soup: Ready for courier
+[2022-09-22 23:07:37.418794] Courier #108 has arrived
+[2022-09-22 23:07:37.418804] Courier #108: Waiting for the next order
+[2022-09-22 23:07:37.419844] Main: Tick
+[2022-09-22 23:07:37.420149] Order #057BC043 Apples: Preparing in 12 seconds
+[2022-09-22 23:07:37.420258] Courier #127 will arrive in 11 seconds to pick up the next order
+[2022-09-22 23:07:37.420299] Order #7F682ADE Kebab: Preparing in 6 seconds
+[2022-09-22 23:07:37.420329] Courier #128 will arrive in 14 seconds to pick up the next order
+[2022-09-22 23:07:37.519145] Courier #97: Picked up Order #A7D778FF Pasta, waited 0 ms, while the order waited for 3000 ms
+[2022-09-22 23:07:37.519480] FifoCourierManager: Average food wait time: 496 milliseconds
+[2022-09-22 23:07:37.519494] FifoCourierManager: Average courier wait time: 654 milliseconds
+[2022-09-22 23:07:37.519631] Courier #102: Picked up Order #22FC8AE6 Tomato Soup, waited 1 ms, while the order waited for 0 ms
+[2022-09-22 23:07:37.519790] FifoCourierManager: Average food wait time: 491 milliseconds
+[2022-09-22 23:07:37.519813] FifoCourierManager: Average courier wait time: 648 milliseconds
+[2022-09-22 23:07:37.520143] Courier #108: Picked up Order #19DE820C Vanilla Ice Cream, waited 0 ms, while the order waited for 4000 ms
+[2022-09-22 23:07:37.520274] FifoCourierManager: Average food wait time: 523 milliseconds
+[2022-09-22 23:07:37.520288] FifoCourierManager: Average courier wait time: 642 milliseconds
+[2022-09-22 23:07:38.417691] Order #3447ACDB Orange Sorbet: Ready for courier
+[2022-09-22 23:07:38.417779] Courier #103 has arrived
+[2022-09-22 23:07:38.417793] Courier #103: Waiting for the next order
+[2022-09-22 23:07:38.417944] Order #40990373 Chicken Nuggets: Ready for courier
+[2022-09-22 23:07:38.421262] Courier #123 has arrived
+[2022-09-22 23:07:38.421291] Courier #123: Waiting for the next order
+[2022-09-22 23:07:38.421349] Main: Tick
+[2022-09-22 23:07:38.421674] Order #0D841704 Mac & Cheese: Preparing in 4 seconds
+[2022-09-22 23:07:38.421765] Courier #129 will arrive in 9 seconds to pick up the next order
+[2022-09-22 23:07:38.421786] Order #7F89B973 Corn Dog: Preparing in 11 seconds
+[2022-09-22 23:07:38.421815] Courier #130 will arrive in 5 seconds to pick up the next order
+[2022-09-22 23:07:38.518400] Courier #103: Picked up Order #3447ACDB Orange Sorbet, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:07:38.518576] FifoCourierManager: Average food wait time: 518 milliseconds
+[2022-09-22 23:07:38.518591] FifoCourierManager: Average courier wait time: 636 milliseconds
+[2022-09-22 23:07:38.521814] Courier #123: Picked up Order #40990373 Chicken Nuggets, waited 0 ms, while the order waited for 3 ms
+[2022-09-22 23:07:38.521922] FifoCourierManager: Average food wait time: 514 milliseconds
+[2022-09-22 23:07:38.521935] FifoCourierManager: Average courier wait time: 631 milliseconds
+[2022-09-22 23:07:39.418742] Order #3EA0971E Ice Cream Sandwich: Ready for courier
+[2022-09-22 23:07:39.419154] Order #33BCF189 Taco: Ready for courier
+[2022-09-22 23:07:39.419584] Courier #115 has arrived
+[2022-09-22 23:07:39.419605] Courier #115: Waiting for the next order
+[2022-09-22 23:07:39.419774] Order #03267CA9 Kombucha: Ready for courier
+[2022-09-22 23:07:39.419970] Order #9012736D Mixed Greens: Ready for courier
+[2022-09-22 23:07:39.420049] Order #F21BF58B Sushi: Ready for courier
+[2022-09-22 23:07:39.421721] Main: Tick
+[2022-09-22 23:07:39.423889] Order #2A23C77F Grilled Corn Salad: Preparing in 7 seconds
+[2022-09-22 23:07:39.423984] Courier #131 will arrive in 13 seconds to pick up the next order
+[2022-09-22 23:07:39.424002] Order #4F304B59 Pistachio Ice Cream: Preparing in 3 seconds
+[2022-09-22 23:07:39.424028] Courier #132 will arrive in 7 seconds to pick up the next order
+[2022-09-22 23:07:39.520866] Courier #115: Picked up Order #3EA0971E Ice Cream Sandwich, waited 0 ms, while the order waited for 1 ms
+[2022-09-22 23:07:39.521047] FifoCourierManager: Average food wait time: 509 milliseconds
+[2022-09-22 23:07:39.521060] FifoCourierManager: Average courier wait time: 625 milliseconds
+[2022-09-22 23:07:40.418092] Courier #110 has arrived
+[2022-09-22 23:07:40.418132] Courier #110: Waiting for the next order
+[2022-09-22 23:07:40.419666] Order #B1315BFB Onion Rings: Ready for courier
+[2022-09-22 23:07:40.519977] Courier #110: Picked up Order #33BCF189 Taco, waited 0 ms, while the order waited for 999 ms
+[2022-09-22 23:07:40.520294] FifoCourierManager: Average food wait time: 513 milliseconds
+[2022-09-22 23:07:40.520308] FifoCourierManager: Average courier wait time: 620 milliseconds
+[2022-09-22 23:07:41.419644] Courier #114 has arrived
+[2022-09-22 23:07:41.419679] Courier #114: Waiting for the next order
+[2022-09-22 23:07:41.419741] Order #D5FBBEE2 Strawberries: Ready for courier
+[2022-09-22 23:07:41.521045] Courier #114: Picked up Order #3B62609C Poppers, waited 0 ms, while the order waited for 6001 ms
+[2022-09-22 23:07:41.521249] FifoCourierManager: Average food wait time: 562 milliseconds
+[2022-09-22 23:07:41.521263] FifoCourierManager: Average courier wait time: 614 milliseconds
+[2022-09-22 23:07:42.419488] Courier #111 has arrived
+[2022-09-22 23:07:42.419571] Courier #111: Waiting for the next order
+[2022-09-22 23:07:42.419692] Courier #112 has arrived
+[2022-09-22 23:07:42.419709] Courier #112: Waiting for the next order
+[2022-09-22 23:07:42.422109] Order #0D841704 Mac & Cheese: Ready for courier
+[2022-09-22 23:07:42.424378] Order #4F304B59 Pistachio Ice Cream: Ready for courier
+[2022-09-22 23:07:42.521396] Courier #111: Picked up Order #DF79A7E4 Popsicle, waited 0 ms, while the order waited for 6001 ms
+[2022-09-22 23:07:42.521690] FifoCourierManager: Average food wait time: 609 milliseconds
+[2022-09-22 23:07:42.521705] FifoCourierManager: Average courier wait time: 609 milliseconds
+[2022-09-22 23:07:42.521820] Courier #112: Picked up Order #D5FBBEE2 Strawberries, waited 0 ms, while the order waited for 1000 ms
+[2022-09-22 23:07:42.522035] FifoCourierManager: Average food wait time: 612 milliseconds
+[2022-09-22 23:07:42.522053] FifoCourierManager: Average courier wait time: 604 milliseconds
+[2022-09-22 23:07:43.419424] Courier #113 has arrived
+[2022-09-22 23:07:43.419435] Courier #113: Waiting for the next order
+[2022-09-22 23:07:43.419488] Courier #117 has arrived
+[2022-09-22 23:07:43.419494] Courier #117: Waiting for the next order
+[2022-09-22 23:07:43.419649] Courier #124 has arrived
+[2022-09-22 23:07:43.419655] Courier #124: Waiting for the next order
+[2022-09-22 23:07:43.420079] Courier #125 has arrived
+[2022-09-22 23:07:43.420083] Courier #125: Waiting for the next order
+[2022-09-22 23:07:43.420440] Order #7F682ADE Kebab: Ready for courier
+[2022-09-22 23:07:43.422084] Courier #130 has arrived
+[2022-09-22 23:07:43.422087] Courier #130: Waiting for the next order
+[2022-09-22 23:07:43.519687] Courier #113: Picked up Order #B1315BFB Onion Rings, waited 0 ms, while the order waited for 3000 ms
+[2022-09-22 23:07:43.519728] FifoCourierManager: Average food wait time: 633 milliseconds
+[2022-09-22 23:07:43.519730] FifoCourierManager: Average courier wait time: 598 milliseconds
+[2022-09-22 23:07:43.519754] Courier #117: Picked up Order #03267CA9 Kombucha, waited 0 ms, while the order waited for 4000 ms
+[2022-09-22 23:07:43.519773] FifoCourierManager: Average food wait time: 661 milliseconds
+[2022-09-22 23:07:43.519776] FifoCourierManager: Average courier wait time: 593 milliseconds
+[2022-09-22 23:07:43.519855] Courier #124: Picked up Order #9012736D Mixed Greens, waited 0 ms, while the order waited for 4000 ms
+[2022-09-22 23:07:43.519874] FifoCourierManager: Average food wait time: 689 milliseconds
+[2022-09-22 23:07:43.519876] FifoCourierManager: Average courier wait time: 588 milliseconds
+[2022-09-22 23:07:43.520159] Courier #125: Picked up Order #F21BF58B Sushi, waited 0 ms, while the order waited for 4000 ms
+[2022-09-22 23:07:43.520185] FifoCourierManager: Average food wait time: 717 milliseconds
+[2022-09-22 23:07:43.520187] FifoCourierManager: Average courier wait time: 583 milliseconds
+[2022-09-22 23:07:43.522383] Courier #130: Picked up Order #7F682ADE Kebab, waited 0 ms, while the order waited for 2 ms
+[2022-09-22 23:07:43.522407] FifoCourierManager: Average food wait time: 711 milliseconds
+[2022-09-22 23:07:43.522409] FifoCourierManager: Average courier wait time: 579 milliseconds
+[2022-09-22 23:07:44.419669] Courier #116 has arrived
+[2022-09-22 23:07:44.419680] Courier #116: Waiting for the next order
+[2022-09-22 23:07:44.419703] Courier #119 has arrived
+[2022-09-22 23:07:44.419706] Courier #119: Waiting for the next order
+[2022-09-22 23:07:44.419717] Courier #118 has arrived
+[2022-09-22 23:07:44.419719] Courier #118: Waiting for the next order
+[2022-09-22 23:07:44.520160] Courier #116: Picked up Order #0D841704 Mac & Cheese, waited 0 ms, while the order waited for 1998 ms
+[2022-09-22 23:07:44.520226] FifoCourierManager: Average food wait time: 722 milliseconds
+[2022-09-22 23:07:44.520230] FifoCourierManager: Average courier wait time: 574 milliseconds
+[2022-09-22 23:07:44.520265] Courier #119: Picked up Order #4F304B59 Pistachio Ice Cream, waited 0 ms, while the order waited for 1995 ms
+[2022-09-22 23:07:44.520295] FifoCourierManager: Average food wait time: 732 milliseconds
+[2022-09-22 23:07:44.520298] FifoCourierManager: Average courier wait time: 569 milliseconds
+[2022-09-22 23:07:45.421004] Order #68037649 Cheese Pizza: Ready for courier
+[2022-09-22 23:07:45.432102] Courier #118: Picked up Order #68037649 Cheese Pizza, waited 1001 ms, while the order waited for 0 ms
+[2022-09-22 23:07:45.432435] FifoCourierManager: Average food wait time: 726 milliseconds
+[2022-09-22 23:07:45.432451] FifoCourierManager: Average courier wait time: 573 milliseconds
+[2022-09-22 23:07:46.420808] Order #5BD1E697 Pressed Juice: Ready for courier
+[2022-09-22 23:07:46.420902] Order #69AD8B1C Brown Rice: Ready for courier
+[2022-09-22 23:07:46.420942] Order #228EC414 Coconut: Ready for courier
+[2022-09-22 23:07:46.420983] Order #B25914FA Pot Stickers: Ready for courier
+[2022-09-22 23:07:46.421178] Courier #121 has arrived
+[2022-09-22 23:07:46.421201] Courier #121: Waiting for the next order
+[2022-09-22 23:07:46.424627] Order #2A23C77F Grilled Corn Salad: Ready for courier
+[2022-09-22 23:07:46.424671] Courier #132 has arrived
+[2022-09-22 23:07:46.424679] Courier #132: Waiting for the next order
+[2022-09-22 23:07:46.523013] Courier #121: Picked up Order #69AD8B1C Brown Rice, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:07:46.523320] FifoCourierManager: Average food wait time: 720 milliseconds
+[2022-09-22 23:07:46.523337] FifoCourierManager: Average courier wait time: 568 milliseconds
+[2022-09-22 23:07:46.525052] Courier #132: Picked up Order #5BD1E697 Pressed Juice, waited 0 ms, while the order waited for 4 ms
+[2022-09-22 23:07:46.525187] FifoCourierManager: Average food wait time: 714 milliseconds
+[2022-09-22 23:07:46.525200] FifoCourierManager: Average courier wait time: 564 milliseconds
+[2022-09-22 23:07:47.421797] Order #EAFCB22B Fish Tacos: Ready for courier
+[2022-09-22 23:07:47.421963] Courier #129 has arrived
+[2022-09-22 23:07:47.421968] Courier #129: Waiting for the next order
+[2022-09-22 23:07:47.523107] Courier #129: Picked up Order #228EC414 Coconut, waited 0 ms, while the order waited for 1001 ms
+[2022-09-22 23:07:47.523151] FifoCourierManager: Average food wait time: 717 milliseconds
+[2022-09-22 23:07:47.523154] FifoCourierManager: Average courier wait time: 559 milliseconds
+[2022-09-22 23:07:48.421380] Courier #126 has arrived
+[2022-09-22 23:07:48.421413] Courier #126: Waiting for the next order
+[2022-09-22 23:07:48.421472] Courier #127 has arrived
+[2022-09-22 23:07:48.421478] Courier #127: Waiting for the next order
+[2022-09-22 23:07:48.523279] Courier #126: Picked up Order #EAFCB22B Fish Tacos, waited 0 ms, while the order waited for 1000 ms
+[2022-09-22 23:07:48.523621] FifoCourierManager: Average food wait time: 719 milliseconds
+[2022-09-22 23:07:48.523638] FifoCourierManager: Average courier wait time: 555 milliseconds
+[2022-09-22 23:07:48.523761] Courier #127: Picked up Order #B25914FA Pot Stickers, waited 0 ms, while the order waited for 2000 ms
+[2022-09-22 23:07:48.523888] FifoCourierManager: Average food wait time: 729 milliseconds
+[2022-09-22 23:07:48.523901] FifoCourierManager: Average courier wait time: 550 milliseconds
+[2022-09-22 23:07:49.421785] Order #057BC043 Apples: Ready for courier
+[2022-09-22 23:07:49.421886] Courier #122 has arrived
+[2022-09-22 23:07:49.421904] Courier #122: Waiting for the next order
+[2022-09-22 23:07:49.422146] Order #7F89B973 Corn Dog: Ready for courier
+[2022-09-22 23:07:49.523149] Courier #122: Picked up Order #057BC043 Apples, waited 0 ms, while the order waited for 0 ms
+[2022-09-22 23:07:49.523217] FifoCourierManager: Average food wait time: 723 milliseconds
+[2022-09-22 23:07:49.523222] FifoCourierManager: Average courier wait time: 546 milliseconds
+[2022-09-22 23:07:51.422050] Courier #128 has arrived
+[2022-09-22 23:07:51.422121] Courier #128: Waiting for the next order
+[2022-09-22 23:07:51.529947] Courier #128: Picked up Order #7F89B973 Corn Dog, waited 0 ms, while the order waited for 2000 ms
+[2022-09-22 23:07:51.530075] FifoCourierManager: Average food wait time: 733 milliseconds
+[2022-09-22 23:07:51.530084] FifoCourierManager: Average courier wait time: 542 milliseconds
+[2022-09-22 23:07:52.425457] Courier #131 has arrived
+[2022-09-22 23:07:52.425485] Courier #131: Waiting for the next order
+[2022-09-22 23:07:52.526783] Courier #131: Picked up Order #2A23C77F Grilled Corn Salad, waited 0 ms, while the order waited for 6001 ms
+[2022-09-22 23:07:52.526859] FifoCourierManager: Average food wait time: 773 milliseconds
+[2022-09-22 23:07:52.526868] FifoCourierManager: Average courier wait time: 538 milliseconds
+[2022-09-22 23:07:52.527044] Main: Average food wait time: 773 milliseconds
+[2022-09-22 23:07:52.527050] Main: Average courier wait time: 538 milliseconds
